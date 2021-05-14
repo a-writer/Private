@@ -1,0 +1,704 @@
+# Translation of Themes - bmqy-next in Chinese (China)
+# This file is distributed under the same license as the Themes - bmqy-next package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-05-11 11:30+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.3\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Themes - bmqy-next\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#. Theme Name of the plugin/theme
+#. Description of the plugin/theme
+msgid "bmqy-next"
+msgstr "bmqy-next"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:194 template-parts/content.php:29
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "继续阅读<span class=\"screen-reader-text\">“%s”</span>"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:194 template-parts/content.php:29
+msgid "Read more"
+msgstr "阅读全文 &raquo;"
+
+#. translators: %s: Name of current post
+#: image.php:88 template-parts/content-page.php:39
+#: template-parts/content-search.php:28 template-parts/content-search.php:43
+#: template-parts/content-single.php:47 template-parts/content.php:53
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "编辑<span class=\"screen-reader-text\">“%s”</span>"
+
+#. translators: %s: Name of current post
+#: template-parts/content.php:25
+msgid "Edit&ldquo;%s&rdquo;"
+msgstr "编辑《%s》"
+
+#. translators: edit post
+#: template-parts/content.php:25
+msgid "Edit"
+msgstr "编辑"
+
+#: inc/customizer.php:324
+msgid "Red"
+msgstr "红"
+
+#. translators: %s: post title
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "《%s》有一条评论"
+
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "搜索…"
+
+#: searchform.php:13
+msgctxt "label"
+msgid "Search for:"
+msgstr "搜索："
+
+#: footer.php:30
+msgid "Footer Social Links Menu"
+msgstr "页脚社交链接菜单"
+
+#: footer.php:17
+msgid "Footer Primary Menu"
+msgstr "页脚主菜单"
+
+#: functions.php:167
+msgid "Add widgets here to appear in your sidebar."
+msgstr "将挂件加入此处来在侧边栏中显示。"
+
+#: template-parts/content.php:14
+msgid "Featured"
+msgstr "特色"
+
+#: template-parts/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "我们可能无法找到您需要的内容。或许搜索功能可以帮到您。"
+
+#: template-parts/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "抱歉，没有符合您搜索条件的结果。请换其它关键词再试。"
+
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "准备好发布第一篇文章了？<a href=\"%1$s\">从这里开始</a>。"
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "未找到"
+
+#: template-parts/biography.php:33
+msgid "View all posts by %s"
+msgstr "查看%s的所有文章"
+
+#: template-parts/biography.php:28
+msgid "Author:"
+msgstr "作者："
+
+#: single.php:42
+msgid "Previous post:"
+msgstr "上篇文章："
+
+#: single.php:41
+msgid "Previous"
+msgstr "上一篇"
+
+#: single.php:39
+msgid "Next post:"
+msgstr "下篇文章："
+
+#: single.php:38
+msgid "Next"
+msgstr "下一篇"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "%s的搜索结果"
+
+#: inc/template-tags.php:112
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "标签"
+
+#: inc/template-tags.php:103
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "分类"
+
+#: inc/template-tags.php:98
+msgctxt "By category names."
+msgid "Categories By"
+msgstr "分类于"
+
+#: inc/template-tags.php:99 inc/template-tags.php:108
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr "、"
+
+#: inc/template-tags.php:83
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "发布于"
+
+#: inc/template-tags.php:68
+msgctxt "Used before modify date."
+msgid "Modify on"
+msgstr "更新于"
+
+#: inc/template-tags.php:40
+msgctxt "Used before post format."
+msgid "Format"
+msgstr "格式"
+
+#: inc/template-tags.php:52
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "<span class=\"screen-reader-text\">于%s</span>留下评论"
+
+#: inc/template-tags.php:26
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "作者"
+
+#: inc/customizer.php:334
+msgid "Yellow"
+msgstr "黄色"
+
+#: inc/customizer.php:314
+msgid "Gray"
+msgstr "灰"
+
+#: inc/customizer.php:304
+msgid "Dark"
+msgstr "暗色"
+
+#: inc/customizer.php:204
+msgid "Main Text Color"
+msgstr "主文字颜色"
+
+#: inc/customizer.php:294
+msgid "Default"
+msgstr "默认"
+
+#: inc/customizer.php:222
+msgid "Secondary Text Color"
+msgstr "副文字颜色"
+
+#: inc/customizer.php:186
+msgid "Link Color"
+msgstr "链接颜色"
+
+#: inc/customizer.php:165
+msgid "Page Background Color"
+msgstr "页面背景颜色"
+
+#: image.php:107 single.php:31
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">发布于</span><span class=\"post-title\">%title</span>"
+
+#: inc/back-compat.php:41 inc/back-compat.php:54 inc/back-compat.php:70
+msgid "bmqy-next requires at least WordPress version 4.4. You are running version %s. Please upgrade and try again."
+msgstr "bmqy-next要求WordPress 4.4版或以上，您在运行%s版。请升级并重试。"
+
+#: inc/customizer.php:145
+msgid "Base Color Scheme"
+msgstr "基础配色方案"
+
+#: image.php:77
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "原始尺寸"
+
+#: image.php:58 template-parts/content-page.php:24
+#: template-parts/content-single.php:26 template-parts/content.php:36
+msgid "Pages:"
+msgstr "页码："
+
+#: image.php:26
+msgid "Next Image"
+msgstr "下一图片"
+
+#: image.php:25
+msgid "Previous Image"
+msgstr "上一图片"
+
+#: header.php:49
+msgid "Menu"
+msgstr "菜单"
+
+#: header.php:27
+msgid "Skip to content"
+msgstr "跳至内容"
+
+#: functions.php:301
+msgid "expand child menu"
+msgstr "展开子菜单"
+
+#: functions.php:302
+msgid "collapse child menu"
+msgstr "折叠子菜单"
+
+#. translators: If there are characters in your language that are not supported
+#. by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:227
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:177
+msgid "Content Bottom 1"
+msgstr "底部内容1"
+
+#: functions.php:179 functions.php:191
+msgid "Appears at the bottom of the content on posts and pages."
+msgstr "在页面与文章内容的底部出现。"
+
+#: functions.php:189
+msgid "Content Bottom 2"
+msgstr "底部内容2"
+
+#. translators: If there are characters in your language that are not supported
+#. by Merriweather, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:217
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr "off"
+
+#. translators: If there are characters in your language that are not supported
+#. by Montserrat, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:222
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:165
+msgid "Sidebar"
+msgstr "侧边栏"
+
+#: functions.php:92 header.php:66
+msgid "Social Links Menu"
+msgstr "社交网络链接菜单"
+
+#: functions.php:91 header.php:53
+msgid "Primary Menu"
+msgstr "主菜单"
+
+msgid "Powered"
+msgstr "技术支持"
+
+msgid "Powered by %s"
+msgstr "由 %s 强力驱动"
+
+msgid "Footer 'powered-by' and 'theme-info' copyright."
+msgstr "页脚“支持”和“主题”信息"
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr "评论已关闭。"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "《%2$s》有%1$s条评论"
+
+#: archive.php:53 image.php:62 index.php:50 search.php:41
+#: template-parts/content-page.php:28 template-parts/content-single.php:30
+#: template-parts/content.php:40
+msgid "Page"
+msgstr "页"
+
+#: archive.php:52 index.php:49 search.php:40
+msgid "Next page"
+msgstr "下一页"
+
+#: archive.php:51 index.php:48 search.php:39
+msgid "Previous page"
+msgstr "上一页"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "这儿似乎什么都没有，试试搜索？"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "有点尴尬诶！该页无法显示。"
+
+#. Theme URI of the plugin/theme
+msgid "http://theme-next.iissnan.com/"
+msgstr "http://theme-next.iissnan.com/"
+
+#. Author of the plugin/theme
+msgid "the WordPress team"
+msgstr "WordPress团队"
+
+#. Author URI of the plugin/theme
+#: footer.php:60
+msgid "https://wordpress.org/"
+msgstr "https://cn.wordpress.org/"
+
+#. translators: Category archive title. 1: Category name
+#: wp-includes/general-template.php:1468
+msgid "%s <small>Category</small>"
+msgstr "%s <small>分类</small>"
+
+#. translators: Tag archive title. 1: Tag name
+#: wp-includes/general-template.php:1471
+msgid "%s <small>Tag</small>"
+msgstr "%s <small>标签</small>"
+
+#. translators: Author archive title. 1: Author name
+#: wp-includes/general-template.php:1474
+msgid "%s <small>Author</small>"
+msgstr "%s <small>作者</small>"
+
+#. translators: Yearly archive title. 1: Year
+#: wp-includes/general-template.php:1477
+msgid "%s <small>Year</small>"
+msgstr "%s <small>年份</small>"
+
+#. translators: Daily archive title. 1: Date
+#: wp-includes/general-template.php:1483
+msgid "%s <small>Day</small>"
+msgstr "%s <small>日期</small>"
+
+#. translators: Monthly archive title. 1: Month name and year
+#: wp-includes/general-template.php:1480
+msgid "%s <small>Month</small>"
+msgstr "%s <small>月份</small>"
+
+#. translators: Post type archive title. 1: Post type name
+#: wp-includes/general-template.php:1506
+msgid "%s <small>Archives</small>"
+msgstr "%s <small>存档</small>"
+
+#. nothing
+msgid "Nothing"
+msgstr "无"
+
+#. theme description
+msgid "wordpress's theme next for bmqy. Copyright owner: IIssNan, http://theme-next.iissnan.com/."
+msgstr "bmqy为wordpress移植的theme next主题。版权归IIssNan所有，http://theme-next.iissnan.com/。"
+
+#. theme options
+msgid "Bmqy-next Settings"
+msgstr "bmqy-next 主题设置"
+
+#. theme options nav
+msgid "Base Settings"
+msgstr "基本设置"
+
+msgid "Nav Settings"
+msgstr "导航设置"
+
+msgid "Author Settings"
+msgstr "版权设置"
+
+msgid "Shop Settings"
+msgstr "店铺设置"
+
+msgid "AD Settings"
+msgstr "广告设置"
+
+msgid "Share Settings"
+msgstr "分享设置"
+
+msgid "Comment Settings"
+msgstr "评论设置"
+
+msgid "Statistics and analysis"
+msgstr "统计分析"
+
+msgid "Other Settings"
+msgstr "其它设置"
+
+#. Site since
+msgid "Site since"
+msgstr "建站时间"
+
+#. Website filing
+msgid "Website filing"
+msgstr "网站备案"
+
+#. unenabled
+msgid "Enabled"
+msgstr "启用"
+
+#. unenabled
+msgid "Unenabled"
+msgstr "不启用"
+
+msgid "Use Motion"
+msgstr "动画效果"
+
+msgid "Bg Effects"
+msgstr "背景动画"
+
+msgid "\"Canvas Ribbon\" needs \"Pisces\" theme support."
+msgstr "\"Canvas Ribbon\" 需要 \"Pisces\" 主题支持"
+
+#. website settings
+msgid "Home Logo display"
+msgstr "首页Logo显示"
+
+#. website settings
+msgid "Site keyword"
+msgstr "站点关键词"
+
+#. website settings
+msgid "Site description"
+msgstr "站点描述"
+
+#. Site since tips
+msgid "This time will be displayed at the bottom of the site, for example: ©2014 - 2018."
+msgstr "这个时间将在站点的底部显示，例如：©2014 - 2018。"
+
+#. Website filing tips
+msgid "website record code."
+msgstr "网站备案编码。"
+
+#. upload logo tips
+msgid "(please upload your logo icon in \"appearance &gt; Custom &gt; site identity\")"
+msgstr "（请在“外观-&gt;自定义-&gt;站点身份”中上传您的logo图标）"
+
+#: searchform.php:16
+msgid "Nav Search"
+msgstr "搜索导航"
+
+#: searchform.php:16
+msgid "(Add search items to the navigation menu)"
+msgstr "（导航菜单中增加搜索项）"
+
+#: searchform.php:16
+msgid "Search Path"
+msgstr "搜索文件"
+
+#: searchform.php:16
+msgid "(The path of the search result file, for example: \"/search.xml\", using the \"admin_ajax\" interface by default)"
+msgstr "（搜索结果文件的路径，例如：“/search.xml”，默认使用“admin_ajax”接口）"
+
+#. nav icon
+msgid "Nav Icon"
+msgstr "图标"
+
+#. social icon
+msgid "Social Icon"
+msgstr "社交图标"
+
+msgid "Enable Highlight"
+msgstr "启用代码高亮"
+
+msgid "Enable Highlight Number"
+msgstr "显示代码行号"
+
+msgid "Highlight Theme"
+msgstr "代码高亮主题"
+
+msgid "Themes custom css"
+msgstr "定制CSS"
+
+msgid "Themes custom stylesheet"
+msgstr "定制主题"
+
+msgid "Please enter your custom CSS."
+msgstr "请输入你的自定义css。"
+
+msgid "(When you need to use a style sheet file, edit the \"custom. css\" file in the theme CSS directory and enable it.)"
+msgstr "（当需要使用样式表文件时，请编辑本主题css目录里的“custom.css”文件后启用它。）"
+
+#. copyright display
+msgid "Copyright Display"
+msgstr "显示版权"
+
+#. copyright apply category
+msgid "Copyright Apply Category"
+msgstr "版权适用分类"
+
+msgid "Post author:"
+msgstr "本文作者："
+
+msgid "Post link:"
+msgstr "本文链接："
+
+msgid "Copyright Notice:"
+msgstr "版权声明："
+
+msgid "All articles in this blog are licensed under <a href='https://creativecommons.org/licenses/by-nc-sa/3.0/' rel='external nofollow' target='_blank'>CC BY-NC-SA 3.0</a> unless stating additionally."
+msgstr "本博客所有文章除特别声明外，均采用 <a href='https://creativecommons.org/licenses/by-nc-sa/3.0/' rel='external nofollow' target='_blank'>CC BY-NC-SA 3.0</a> 许可协议。"
+
+#. copyright display
+msgid "Shop Display"
+msgstr "显示店铺"
+
+#. shop title
+msgid "Shop Title"
+msgstr "店铺标题"
+
+#. shop icon
+msgid "Shop Icon"
+msgstr "店铺图标"
+
+#. shop content
+msgid "Shop Content"
+msgstr "店铺内容"
+
+#. shop apply category
+msgid "Shop Apply Category"
+msgstr "店铺适用分类"
+
+#. shop icon tips
+msgid "Shop icon, recommended size: 140*140"
+msgstr "店铺图标，推荐尺寸：140*140"
+
+#. shop content tips
+msgid "Support html tags, preferably display 3 lines"
+msgstr "支持html标签，最终以显示 3 行为宜"
+
+#. baidu share
+msgid "Baidu Share"
+msgstr "百度分享"
+
+#. addthis share
+msgid "Addthis Share"
+msgstr "Addthis分享"
+
+#. please fill in pubid, for example: ra-5ba08b500bc8cdfd
+msgid "Please fill in pubid, for example: ra-5ba08b500bc8cdfd"
+msgstr "请填写pubid，例如：ra-5ba08b500bc8cdfd"
+
+msgid "Chang yan"
+msgstr "畅言"
+
+msgid "Chang yan appid"
+msgstr "畅言appid"
+
+msgid "Chang yan appkey"
+msgstr "畅言appkey"
+
+msgid "Disqus"
+msgstr "Disqus"
+
+msgid "Disqus Shortname"
+msgstr "Disqus简称"
+
+msgid "Disqus Count"
+msgstr "Disqus评论数量"
+
+msgid "(Whether the number of comments is displayed)"
+msgstr "（是否显示评论数量）"
+
+#. baidu site verification
+msgid "Baidu site verification"
+msgstr "百度网站验证"
+
+#. baidu site verification tips
+msgid "Please enter the contents of the content attribute in the HTML label validation mode."
+msgstr "请输入HTML标签验证方式中content属性的内容"
+
+#. baidu analytics
+msgid "Baidu analytics"
+msgstr "百度统计"
+
+#. baidu analytics tips
+msgid "Baidu_analytics is not your Baidu id or Baidu stat id, is the string of statistical script id after \"hm.js?\""
+msgstr "baidu_analytics不是你的百度id或者百度统计id，是“hm.js?”后面那串统计脚本id"
+
+#. cnzz analytics
+msgid "CNZZ analytics"
+msgstr "CNZZ统计"
+
+#. qihu site verification
+msgid "Qihu site verification"
+msgstr "360网站验证"
+
+#. qihu site verification
+msgid "Qihu sitemap auto"
+msgstr "360自动收录"
+
+#. google site verification
+msgid "Google site verification"
+msgstr "谷歌网站验证"
+
+#. google analytics
+msgid "Google analytics"
+msgstr "谷歌统计"
+
+#. bing site verification
+msgid "Yandex site verification"
+msgstr "Yandex网站验证"
+
+#. bing site verification
+msgid "Bing site verification"
+msgstr "Bing网站验证"
+
+#. bing analytics
+msgid "Bing analytics"
+msgstr "Bing统计"
+
+#. Eevee tips
+msgid "Eevee display"
+msgstr "Eevee显示"
+
+#. Eevee tips
+msgid "(To learn about Eevee, please visit: https://codepen.io/davidkpiano/pen/NAZarB)"
+msgstr "（了解Eevee，请访问：https://codepen.io/davidkpiano/pen/NAZarB）"
+
+#. Html Compress
+msgid "Html Compress"
+msgstr "Html压缩"
+
+#. Mouse Click Effects
+msgid "Mouse Click Effects"
+msgstr "鼠标点击特效"
+
+msgid "Login Security"
+msgstr "登录安全"
+
+msgid "Login security flag"
+msgstr "登录安全标识"
+
+msgid "(After being enabled, the login address needs to add security identification parameters, such as: '?Security = flag')"
+msgstr "（启用后，登录地址需追加安全标识参数，如：“?security=flag”）"
+
+msgid "The only sign for backstage landing entry"
+msgstr "后台登录入口唯一标识"
+
+msgid "Login security redirect"
+msgstr "登录失败跳转"
+
+msgid "Jump link after background login verification failed"
+msgstr "后台登录地址验证失败后的跳转地址"
+
+msgid "Jsdelivr hash"
+msgstr "Jsdelivr哈希值"
+
+msgid "Github repo hash for Jsdelivr"
+msgstr "为Jsdelivr提供Github仓库commit哈希值"
+
+#. RSS type
+msgid "File type"
+msgstr "文件类型"
+
+msgid "There are currently %s classifications."
+msgstr "目前共计 %s 个分类"
+
+msgid "Very good! There are now %s logs. Keep trying."
+msgstr "很好! 目前共计 %s 篇日志。 继续努力。"
+
+msgid "There are currently %s labels."
+msgstr "目前共计 %s 个标签"
