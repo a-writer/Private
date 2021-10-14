@@ -1,0 +1,24 @@
+._JL_display {
+    display:none !important;
+}
+._JL_background {
+    content:'';
+    display:block;
+    position:fixed;
+    left:0;
+    right:0;
+    top:0;
+    bottom:0;
+    z-index:-2;
+    background-position:center;
+    background-size:cover;
+    background-repeat:no-repeat;
+    opacity:0.55;
+    transition:opacity .5s ease;
+}
+._JL_background_banner {
+    background:transparent !important;
+}
+#_JL_footer p {
+    font-size:10px;
+}
