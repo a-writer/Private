@@ -1,4 +1,5 @@
 #!/bin/bash
+# command: curl -ksS --progress-bar https://raw.githubusercontent.com/a-writer/Private/master/shell/pyi.sh | bash
 url_openssl="https://www.openssl.org/source/openssl-1.1.1.tar.gz"
 url_py38="https://www.python.org/ftp/python/3.8.0/Python-3.8.0.tgz"
 run_command() {
