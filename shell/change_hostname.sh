@@ -1,6 +1,7 @@
 #!/bin/bash
 #  原始命令：hostnamectl set-hostname $(echo -n "$(ifconfig eth0 | grep 'inet ' | awk '{print $2}')" | python3 -c 'import sys;import zlib;print("%08x"%(zlib.crc32(sys.stdin.read())%(1<<32)))')
 #  当前脚本为chatgpt.com扩展
+#  command: curl -ksS --progress-bar https://raw.githubusercontent.com/a-writer/Private/master/shell/change_hostname.sh | bash
 # 检查Python版本是否为Python 3
 python_version=$(python3 --version 2>&1)
 if [[ "$python_version" != "Python 3."* ]]; then
