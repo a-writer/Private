@@ -86,9 +86,23 @@
 
 *.weibo.com
 
+*.10086.cn
+*.migu.cn
+*.cmcc-cs.cn
+*.cmpassport.com
+*.mmarket.com
+*.online-cmcc.cn
+*.miguvideo.com
+*.mob.com
+*.139.com
+
 *.10010.com
 *.10155.com
 *.chinaunicomvideo.cn
+*.wo.cn
+*.wo.com.cn
+
+*.189.cn
 
 *.umeng.com
 *.umengcloud.com
@@ -140,15 +154,6 @@
 *.xinnet.com
 
 *.amap.com
-
-*.10086.cn
-*.migu.cn
-*.cmcc-cs.cn
-*.cmpassport.com
-*.mmarket.com
-*.online-cmcc.cn
-*.miguvideo.com
-*.mob.com
 
 *.sohu.com
 
@@ -214,3 +219,17 @@
 
 *.tp-link.com.cn
 *.tplinkcloud.com.cn
+
+*.52pojie.cn
+
+*.125.la
+*.3600gz.cn
+
+*.kafan.cn
+
+*.sina.com.cn
+*.sina.com
+
+*.115.com
+
+*.gov.cn
