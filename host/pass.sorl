@@ -10,8 +10,6 @@
 *.mi.com
 *.mi-img.com
 
-*.bytegoofy.com
-
 *.hdslb.com
 *.bilibili.com
 *.bilivideo.com
@@ -41,6 +39,7 @@
 
 *.aizhan.com
 *.itdog.cn
+*.chinaz.com
 
 *.openluat.com
 *.air724ug.cn
@@ -66,6 +65,7 @@
 *.wechatapp.com
 *.upqzfile.com
 *.qpic.cn
+*.qlogo.cn
 *.taotao.com
 *.discuz.net
 *.discuz.com
@@ -91,9 +91,14 @@
 *.chinaunicomvideo.cn
 
 *.umeng.com
+*.umengcloud.com
 *.umsns.com
 
+*.3.cn
+*.jd.com
 *.jdcloud.com
+*.360buyimg.com
+*.300hu.com
 
 *.apple.com
 *.apple.com.cn
@@ -101,11 +106,38 @@
 *.ip-api.com
 *.ip138.com
 
-*.alicdn.com
 *.taobao.com
+*.dingtalk.com
+*.dingtalk.cn
+*.dingtalkapps.com
+*.alicdn.com
 *.alipay.com
 *.aliyun.com
 *.aliyuncs.com
+*.alibaba.com
+*.alimebot.com
+*.aliyunpds.com
+*.aliwork.com
+*.aliimg.com
+*.alipayobjects.com
+*.aliyun-inc.com
+*.alibabausercontent.com
+*.alibaba-inc.com
+*.aliapp.org
+*.alimama.com
+*.1688.com
+*.teambition.net
+*.teambition.com
+*.tbcdn.cn
+*.effirst.com
+*.tbcache.com
+*.mmstat.com
+*.mxhichina.com
+*.youku.com
+*.ucweb.com
+*.goofish.com
+*.tanx.com
+*.xinnet.com
 
 *.amap.com
 
@@ -120,10 +152,65 @@
 
 *.sohu.com
 
-*.snssdk.com
-
 *.iotwish.com
 *.iot-dns.com
 
 *.sogou.com
 *.sogoucdn.com
+
+*.ecombdapi.com
+*.amemv.com
+*.awemeughun.com
+*.byteactivity.com
+*.bytegecko.com
+*.bytedance.com
+*.byteimg.com
+*.bytevcloud.com
+*.bytescm.com
+*.bytecdn.cn
+*.bytecdn.com
+*.bytegoofy.com
+*.byteimg.com
+*.douyinvod.com
+*.douyincdn.com
+*.douyinpic.com
+*.douyinstatic.com
+*.zijieapi.com
+*.qishui.com
+*.feishu.cn
+*.feishucdn.com
+*.365yg.com
+*.ctobsnssdk.com
+*.snssdk.com
+*.pstatp.com
+*.toutiaocloud.com
+*.idouyinvod.com
+*.volceapplog.com
+
+*.xycdn.com
+*.xycloud.com
+*.xunlei.com
+*.onethingtech.com.cn
+*.onethingcloud.com
+
+*.dji.com
+*.djiservice.org
+*.dji.com
+*.skypixel.com
+
+*.mifon.com
+
+*.ys7.com
+*.hiklink.cn
+*.hikvision.com
+
+*.dcloud.io
+*.dcloud.net.cn
+
+*.ikuai8.com
+
+*.jpush.cn
+*.jiguang.cn
+
+*.tp-link.com.cn
+*.tplinkcloud.com.cn
