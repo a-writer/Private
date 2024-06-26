@@ -97,8 +97,6 @@
 *.360simg.com
 *.so.com
 
-*.weibo.com
-
 *.10086.cn
 *.migu.cn
 *.cmcc-cs.cn
@@ -248,6 +246,9 @@
 
 *.kafan.cn
 
+*.weibo.com
+*.sinaimg.cn
+*.sinajs.cn
 *.sina.com.cn
 *.sina.com
 
@@ -296,11 +297,21 @@
 
 *.ljxnet.cn
 
+*.hao123.com
+
 *.icbc.com.cn
 *.abchina.com
 *.abchina.com.cn
 *.cebbank.com
 *.sdnxs.com
+*.psbc.com
+*.ccb.com
+*.boc.cn
+*.bankofchina.com
+*.bankcomm.com
+*.cmbchina.com
+*.cmbimg.com
+*.cmbc.com.cn
 *.eastmoney.com
 *.dfcfw.com
 *.dftzj.com
@@ -313,6 +324,15 @@
 *.secpulse.com
 *.freebuf.com
 *.wooyun.org
+
+*.gitee.com
+
+*.zhihu.com
+*.zhimg.com
+
+*.weiling.cn
+
+*.knet.cn
 
 *.yaohuo.me
 
