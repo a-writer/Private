@@ -9,6 +9,16 @@
 
 *.mi.com
 *.mi-img.com
+*.xiaomi.com
+*.xiaomi.net
+
+*.baomitu.com
+
+*.bootcdn.cn
+
+*.upai.com
+
+*.staticfile.org
 
 *.hdslb.com
 *.bilibili.com
@@ -258,6 +268,8 @@
 *.oneplus.com
 *.oneplus.cn
 
+*.meizu.com
+
 *.hypergryph.com
 *.hycdn.cn
 
@@ -272,6 +284,37 @@
 
 *.sf-card.com
 *.sf-express.com
+
+*.51.la
+
+*.qcc.com
+*.qichacha.com
+
+*.tianyancha.com
+
+*.x-wrt.dev
+
+*.ljxnet.cn
+
+*.icbc.com.cn
+*.abchina.com
+*.abchina.com.cn
+*.cebbank.com
+*.sdnxs.com
+*.eastmoney.com
+*.dfcfw.com
+*.dftzj.com
+
+*.1panel.cn
+*.bt.cn
+*.yunaq.com
+*.safedog.cn
+*.fortcloud.cn
+*.secpulse.com
+*.freebuf.com
+*.wooyun.org
+
+*.yaohuo.me
 
 *.gov.cn
 *.edu.cn
