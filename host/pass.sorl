@@ -22,6 +22,7 @@
 *.baidubce.com
 *.woa.com
 *.chip-space.com
+*.bdimg.com
 
 *.yinerda.com
 
@@ -34,6 +35,8 @@
 *.126.net
 *.netease.com
 *.163yun.com
+*.youdao.com
+*.ydstatic.com
 
 *.mihoyo.com
 
@@ -119,6 +122,7 @@
 
 *.ip-api.com
 *.ip138.com
+*.ipip.net
 
 *.taobao.com
 *.dingtalk.com
@@ -232,4 +236,27 @@
 
 *.115.com
 
+*.csdn.net
+*.csdnimg.cn
+
+*.cnblogs.com
+
+*.huawei.com
+
+*.oppo.com
+
+*.vivo.com
+*.vivo.com.cn
+
+*.oneplus.com
+*.oneplus.cn
+
+*.hypergryph.com
+*.hycdn.cn
+
+*.mihoyo.com
+
+*.threatbook.cn
+
 *.gov.cn
+*.edu.cn
