@@ -104,6 +104,9 @@
 *.chinaunicomvideo.cn
 *.wo.cn
 *.wo.com.cn
+*.chinaunicom.cn
+*.10010.com
+*.10010.com.cn
 
 *.189.cn
 
@@ -119,6 +122,7 @@
 
 *.apple.com
 *.apple.com.cn
+*.icloud.com.cn
 
 *.ip-api.com
 *.ip138.com
@@ -163,6 +167,8 @@
 
 *.iotwish.com
 *.iot-dns.com
+*.smart321.com
+*.tuya.com
 
 *.sogou.com
 *.sogoucdn.com
@@ -195,6 +201,7 @@
 *.toutiaocloud.com
 *.idouyinvod.com
 *.volceapplog.com
+*.pangolin-sdk-toutiao.com
 
 *.xycdn.com
 *.xycloud.com
@@ -257,6 +264,14 @@
 *.mihoyo.com
 
 *.threatbook.cn
+
+*.niimbot.com
+*.jc-saas.com
+
+*.venuscn.com
+
+*.sf-card.com
+*.sf-express.com
 
 *.gov.cn
 *.edu.cn
