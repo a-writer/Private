@@ -12,6 +12,8 @@
 *.xiaomi.com
 *.xiaomi.net
 
+*.meituan.net
+
 *.baomitu.com
 
 *.bootcdn.cn
@@ -136,11 +138,14 @@
 *.yihaoduozhongduan.com
 
 *.10010.com
+*.10010.cn
 *.10155.com
 *.chinaunicomvideo.cn
 *.wo.cn
 *.wo.com.cn
 *.chinaunicom.cn
+*.chinaunicom.com
+*.chinaunicom.com.cn
 *.10010.com
 *.10010.com.cn
 
@@ -361,6 +366,7 @@
 *.weiling.cn
 
 *.knet.cn
+*.xcc.cn
 
 *.yaohuo.me
 
