@@ -243,6 +243,10 @@
 *.idouyinvod.com
 *.volceapplog.com
 *.pangolin-sdk-toutiao.com
+*.douyinliving.com
+*.bytefcdn.com
+*.volcfcdndvs.com
+*.bvfcdn.com
 ; 网心云
 *.xycdn.com
 *.xycloud.com
@@ -334,7 +338,7 @@
 *.x-wrt.com
 ; 网络测速
 *.ljxnet.cn
-*.netstat.cn
+*.nigx.cn
 ; 黄页
 *.hao123.com
 ; 银行
