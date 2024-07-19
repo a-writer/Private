@@ -249,6 +249,7 @@
 *.bytefcdn.com
 *.volcfcdndvs.com
 *.bvfcdn.com
+*.fqnovel.com
 ; 网心云
 *.xycdn.com
 *.xycloud.com
@@ -402,3 +403,5 @@
 ; 联想
 *.lenovo.com.cn
 *.lenovomm.com
+; ucloud
+*.ucloud.com.cn
