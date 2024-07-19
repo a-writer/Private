@@ -102,6 +102,8 @@
 *.g9hc4.cn
 *.qhres2.com
 *.qikucdn.com
+*.360tres.com
+*.qhupdate.com
 ; 中国移动
 *.10086.cn
 *.migu.cn
@@ -250,6 +252,7 @@
 *.volcfcdndvs.com
 *.bvfcdn.com
 *.fqnovel.com
+*.ixigua.com
 ; 网心云
 *.xycdn.com
 *.xycloud.com
@@ -405,3 +408,10 @@
 *.lenovomm.com
 ; ucloud
 *.ucloud.com.cn
+; 金山
+*.ijinshan.com
+*.zhhainiao.com
+*.wps.com
+*.wps.cn
+*.ksmobile.com
+*.cmcm.com
