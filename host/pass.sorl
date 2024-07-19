@@ -176,6 +176,7 @@
 *.alidns.com
 *.alicdn.com
 *.alipay.com
+*.alipaydns.com
 *.aliyun.com
 *.aliyuncs.com
 *.alibaba.com
@@ -398,4 +399,6 @@
 *.toutiaoyule.com
 ; 高恪
 *.gocloud.cn
-
+; 联想
+*.lenovo.com.cn
+*.lenovomm.com
