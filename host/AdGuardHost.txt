@@ -5,6 +5,7 @@ h5log-api-dualstack.mihoyo.com
 log-upload-v6.mihoyo.com
 log-upload.mihoyo.com
 public-data-api.mihoyo.com
+apm-log-upload-v6.mihoyo.com
 # 米哈游国际
 log-upload-os.hoyoverse.com
 log-upload-os.mihoyo.com
