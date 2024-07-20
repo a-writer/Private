@@ -37,6 +37,10 @@ remote-config-proxy-prd.uca.cloud.unity3d.com
 stat.centbrowser.cn
 # 迅雷
 hub5pr.v6.phub.sandai.net
+# 腾讯
+safebrowsing.urlsec.qq.com
+# 谷歌
+safebrowsing.googleapis.com
 # 以下是疑似且不影响正常使用的域名
 # 迅雷
 hub5pn.v6.sandai.net
