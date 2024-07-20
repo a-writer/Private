@@ -1,12 +1,35 @@
 # 未明确的日志上报
 catalog.gamepass.com
 # 米哈游
-ys-log-upload.mihoyo.com
 h5log-api-dualstack.mihoyo.com
 log-upload-v6.mihoyo.com
+log-upload.mihoyo.com
+public-data-api.mihoyo.com
+# 米哈游国际
+log-upload-os.hoyoverse.com
+log-upload-os.mihoyo.com
+sg-public-data-api.hoyoverse.com
+# 米哈游独立专用上报
+ad-log-upload.mihoyo.com
+hkrpg-log-upload.mihoyo.com
+ys-log-upload.mihoyo.com
+zzz-log-upload.mihoyo.com
+dispatchcnglobal.yuanshen.com
+uspider.yuanshen.com
+cnuspider.yuanshen.com
+# 米哈游独立专用上报(国际)
+overseauspider.yuanshen.com
 # 番茄小说
 log0-applog-hl.fqnovel.com
 rtlog5-applog-hl.fqnovel.com
 # 微信支付
 log.wechatpay.cn
 #阿里云高防公共域名：aliyunddos1019.com
+# unity3d部分
+# 引用自https://github.com/an-anime-team/flatpak-builds/blob/main/moe.launcher.an-anime-game-launcher.sh
+prd-lender.cdp.internal.unity3d.com
+thind-prd-knob.data.ie.unity3d.com
+thind-gke-usc.prd.data.corp.unity3d.com
+cdp.cloud.unity3d.com
+remote-config-proxy-prd.uca.cloud.unity3d.com
+# 原神资源更新 autopatchcn.yuanshen.com autopatchhk.yuanshen.com genshinimpact.mihoyo.com
