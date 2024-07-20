@@ -1,0 +1,12 @@
+# 未明确的日志上报
+catalog.gamepass.com
+# 米哈游
+ys-log-upload.mihoyo.com
+h5log-api-dualstack.mihoyo.com
+log-upload-v6.mihoyo.com
+# 番茄小说
+log0-applog-hl.fqnovel.com
+rtlog5-applog-hl.fqnovel.com
+# 微信支付
+log.wechatpay.cn
+#阿里云高防公共域名：aliyunddos1019.com
