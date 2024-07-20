@@ -41,6 +41,9 @@ hub5pr.v6.phub.sandai.net
 safebrowsing.urlsec.qq.com
 # 谷歌
 safebrowsing.googleapis.com
+# 哔哩哔哩
+data.bilibili.com
+live-trace.bilibili.com
 # 以下是疑似且不影响正常使用的域名
 # 迅雷
 hub5pn.v6.sandai.net
