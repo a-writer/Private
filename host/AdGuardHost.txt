@@ -23,6 +23,8 @@ overseauspider.yuanshen.com
 # 番茄小说
 log0-applog-hl.fqnovel.com
 rtlog5-applog-hl.fqnovel.com
+# 微信
+dns.weixin.qq.com
 # 微信支付
 log.wechatpay.cn
 #阿里云高防公共域名：aliyunddos1019.com
