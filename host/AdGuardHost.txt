@@ -35,9 +35,12 @@ cdp.cloud.unity3d.com
 remote-config-proxy-prd.uca.cloud.unity3d.com
 # 百分浏览器
 stat.centbrowser.cn
+# 迅雷
+hub5pr.v6.phub.sandai.net
 # 以下是疑似且不影响正常使用的域名
 # 迅雷
 hub5pn.v6.sandai.net
-hub5pr.v6.phub.sandai.net
 hub5pnc.sandai.net
+# 未明确
+report.uchiha.ltd
 # 原神资源更新 autopatchcn.yuanshen.com autopatchhk.yuanshen.com genshinimpact.mihoyo.com
