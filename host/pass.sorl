@@ -166,6 +166,7 @@
 *.apple.com
 *.apple.com.cn
 *.icloud.com.cn
+*.cdn-apple.com
 ; IP查询
 *.ip-api.com
 *.ip138.com
