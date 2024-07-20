@@ -33,4 +33,6 @@ thind-prd-knob.data.ie.unity3d.com
 thind-gke-usc.prd.data.corp.unity3d.com
 cdp.cloud.unity3d.com
 remote-config-proxy-prd.uca.cloud.unity3d.com
+# 百分浏览器
+stat.centbrowser.cn
 # 原神资源更新 autopatchcn.yuanshen.com autopatchhk.yuanshen.com genshinimpact.mihoyo.com
