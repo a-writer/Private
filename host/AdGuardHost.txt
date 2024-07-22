@@ -28,8 +28,10 @@ cnuspider.yuanshen.com
 # 米哈游独立专用上报(国际)
 overseauspider.yuanshen.com
 # 番茄小说
-log0-applog-hl.fqnovel.com
-rtlog5-applog-hl.fqnovel.com
+/(^|\.)log[0-9]-applog-hl\.fqnovel\.com$/
+# 通用log0-applog-hl.fqnovel.com和www.log0-applog-hl.fqnovel.com
+/(^|\.)rtlog[0-9]-applog-hl\.fqnovel\.com$/
+# 上同通用：(www.)rtlog5-applog-hl.fqnovel.com
 # 微信
 dns.weixin.qq.com
 # 微信支付
@@ -61,7 +63,7 @@ hub5pn.v6.sandai.net
 hub5pnc.sandai.net
 # 原神资源更新 autopatchcn.yuanshen.com autopatchhk.yuanshen.com genshinimpact.mihoyo.com
 # MIUI系列：
-#安装检查
+# 安装检查
 api.installer.xiaomi.com
 #OneTrack & Analytics & Ad
 tracking.miui.com
@@ -70,11 +72,11 @@ diagnosis.ad.xiaomi.com
 log.ad.xiaomi.com
 m.track.ad.xiaomi.com
 sdkconfig.ad.xiaomi.com
-#反诈
+# 反诈
 flash.sec.miui.com
-#快应用
+# 快应用
 api.hybrid.xiaomi.com
-#浏览器 热点下滑等
+# 浏览器 热点下滑等
 o2o.api.xiaomi.com
 api.browser.miui.com
 ssl-cdn.static.browser.mi-img.com
@@ -84,19 +86,19 @@ r.browser.miui.com
 hd.browser.miui.com
 c3-cache.browser.miui.com
 api-ipv4.browser.miui.com
-#系统应用检查更新 e.g 下载管理
+# 系统应用检查更新 e.g 下载管理
 api.developer.xiaomi.com
-#小米云扫描组件
+# 小米云扫描组件
 log.avlyun.sec.intl.miui.com
 update.avlyun.sec.miui.com
 ixav-cse.avlyun.com
 logupdate.avlyun.sec.miui.com
 miui-fxcse.avlyun.com
 sdkconf.avlyun.com
-#OPPO
+# OPPO
 ||sms.ads.heytapmobi.com^
 ||cl-data.ads.heytapmobi.com^
-#书旗
+# 书旗
 dsp-x.jd.com
 xlog.jd.com
 janapi.jd.com
@@ -105,13 +107,13 @@ janapi.jd.com
 ||mos.m.taobao.com^
 ||sdk-log.partner.sm.cn^
 ||opehs.tanx.com^
-#七猫免费小说
+# 七猫免费小说
 cdn-new-ad.wtzw.com
 a-remad.qm989.com
 open.kuaishouzt.com
-#QQ浏览器小说广告
+# QQ浏览器小说广告
 ||kde.qq.com^
-#字节系 AD API SDK 屏蔽
+# 字节系 AD API SDK 屏蔽
 /pangolin-sdk.*/
 /pangolin-sdk-toutiao.*/
 /pangolin-sdk-toutiao1.*/
@@ -146,3 +148,6 @@ open.kuaishouzt.com
 ||localads.chengzijianzhan.cn^
 ||localads.chengzijianzhan.cn.queniurc.com^
 ||ads*-normal-lf.zijieapi.com.dhcp^
+# 联合通信
+analytics.10010.com
+pcps.chinaunicom.cn
