@@ -1,3 +1,13 @@
 # Please note, this is a subjective AdGuard Home Host file.
 # This file is intended for specific scenarios and is not recommended for use by unrelated personnel.
 ichannel.snssdk.com
+#未明确
+rmonitor.qq.com
+# https://privacy.qq.com/document/preview/d54c537d56764b10a9a3239f732780c2
+# SDK名称：RMonitor
+# 提供主体：深圳市腾讯计算机系统有限公司
+# 使用目的：用于统计用户数量
+# 处理方式：通过去标识化、加密传输和处理的安全处理方式
+# 收集个人信息类型：Identifier For Vendor(供应商标识符）
+applogsg.matrix.netease.com
+#疑似网易
