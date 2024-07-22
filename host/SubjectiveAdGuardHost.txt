@@ -19,3 +19,5 @@ lf3-analytics.bytescm.com
 # 字节
 ||google-analytics.com^
 # 谷歌
+||device.cup.com.cn^
+#未明确
