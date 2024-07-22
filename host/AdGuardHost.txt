@@ -53,3 +53,36 @@ hub5pnc.sandai.net
 # 未明确
 report.uchiha.ltd
 # 原神资源更新 autopatchcn.yuanshen.com autopatchhk.yuanshen.com genshinimpact.mihoyo.com
+# MIUI系列：
+#安装检查
+api.installer.xiaomi.com
+#OneTrack & Analytics & Ad
+tracking.miui.com
+data.mistat.xiaomi.com
+diagnosis.ad.xiaomi.com
+log.ad.xiaomi.com
+m.track.ad.xiaomi.com
+sdkconfig.ad.xiaomi.com
+#反诈
+flash.sec.miui.com
+#快应用
+api.hybrid.xiaomi.com
+#浏览器 热点下滑等
+o2o.api.xiaomi.com
+api.browser.miui.com
+ssl-cdn.static.browser.mi-img.com
+security.browser.miui.com
+hot.browser.miui.com
+r.browser.miui.com
+hd.browser.miui.com
+c3-cache.browser.miui.com
+api-ipv4.browser.miui.com
+#系统应用检查更新 e.g 下载管理
+api.developer.xiaomi.com
+#小米云扫描组件
+log.avlyun.sec.intl.miui.com
+update.avlyun.sec.miui.com
+ixav-cse.avlyun.com
+logupdate.avlyun.sec.miui.com
+miui-fxcse.avlyun.com
+sdkconf.avlyun.com
