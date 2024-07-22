@@ -1,5 +1,12 @@
 # 未明确
 catalog.gamepass.com
+||toblog.ctobsnssdk.com^
+||pangolin.snssdk.com^
+||ulogs.umeng.com^
+||aaid.umeng.com^
+msg.umengcloud.com
+||mssdk-bu.bytedance.com^
+report.uchiha.ltd
 # 米哈游
 h5log-api-dualstack.mihoyo.com
 log-upload-v6.mihoyo.com
@@ -35,6 +42,8 @@ thind-prd-knob.data.ie.unity3d.com
 thind-gke-usc.prd.data.corp.unity3d.com
 cdp.cloud.unity3d.com
 remote-config-proxy-prd.uca.cloud.unity3d.com
+o.iads.unity3d.com
+ae.iads.unity3d.com
 # 百分浏览器
 stat.centbrowser.cn
 # 迅雷
@@ -50,8 +59,6 @@ live-trace.bilibili.com
 # 迅雷
 hub5pn.v6.sandai.net
 hub5pnc.sandai.net
-# 未明确
-report.uchiha.ltd
 # 原神资源更新 autopatchcn.yuanshen.com autopatchhk.yuanshen.com genshinimpact.mihoyo.com
 # MIUI系列：
 #安装检查
@@ -86,3 +93,56 @@ ixav-cse.avlyun.com
 logupdate.avlyun.sec.miui.com
 miui-fxcse.avlyun.com
 sdkconf.avlyun.com
+#OPPO
+||sms.ads.heytapmobi.com^
+||cl-data.ads.heytapmobi.com^
+#书旗
+dsp-x.jd.com
+xlog.jd.com
+janapi.jd.com
+||api.th.wanzjhb.com^
+||partner.uc.cn^
+||mos.m.taobao.com^
+||sdk-log.partner.sm.cn^
+||opehs.tanx.com^
+#七猫免费小说
+cdn-new-ad.wtzw.com
+a-remad.qm989.com
+open.kuaishouzt.com
+#QQ浏览器小说广告
+||kde.qq.com^
+#字节系 AD API SDK 屏蔽
+/pangolin-sdk.*/
+/pangolin-sdk-toutiao.*/
+/pangolin-sdk-toutiao1.*/
+/pglstatp-toutiao.*/
+||bsccdn.net^
+||dig.zjurl.cn^
+||dig.bdurl.net^
+||ad.zijieapi.com^
+||apps.bytesfield.com^
+||pangolin-sdk-toutiao.com^
+||pangolin-sdk-toutiao1.com^
+||pangolin-sdk-toutiao-b.com^
+||pglstatp-toutiao.com^
+||vcs.zijieapi.com^
+||ads*-normal.amemv.com^
+||ads*-normal-lq.amemv.com^
+||ads*-normal-lf.amemv.com^
+||ads*-normal-hl.amemv.com^
+||ads*-normal.zijieapi.com^
+||ads*-normal-lq.zijieapi.com^
+||ads*-normal-lf.zijieapi.com^
+||ads*-normal-hl.zijieapi.com^
+||ads*-normal-lq.zijieapi.com.w.cdngslb.com^
+||ads*-normal-lq.zijieapi.com.queniuiq.com^
+||p*-ad-sign.byteimg.com^
+||p*-ad.byteimg.com^
+||lf*-orange.byteorge.com^
+||v*-novelapp.fqnovelvod.com^
+||sf*-ttcdn-tos.pstatp.com^
+||p*-local-ads.byteimg.com.queniuso.com^
+||p*-local-ads.byteimg.com^
+||localads.chengzijianzhan.cn^
+||localads.chengzijianzhan.cn.queniurc.com^
+||ads*-normal-lf.zijieapi.com.dhcp^
