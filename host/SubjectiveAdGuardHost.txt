@@ -2,6 +2,7 @@
 # This file is intended for specific scenarios and is not recommended for use by unrelated personnel.
 # 极端规则 无法保证是否影响正常使用
 ichannel.snssdk.com
+vas-lf-x.snssdk.com
 # 未明确
 rmonitor.qq.com
 # https://privacy.qq.com/document/preview/d54c537d56764b10a9a3239f732780c2
@@ -21,3 +22,7 @@ lf3-analytics.bytescm.com
 # 谷歌
 ||device.cup.com.cn^
 #未明确
+cloud.browser.360.cn
+||tt.browser.360.cn^
+||f.360.cn^
+# 360
