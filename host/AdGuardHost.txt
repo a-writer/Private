@@ -150,4 +150,6 @@ open.kuaishouzt.com
 ||ads*-normal-lf.zijieapi.com.dhcp^
 # 联合通信
 analytics.10010.com
+analytics2.10010.com
 pcps.chinaunicom.cn
+
