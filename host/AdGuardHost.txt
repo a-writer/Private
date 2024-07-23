@@ -152,4 +152,18 @@ open.kuaishouzt.com
 analytics.10010.com
 analytics2.10010.com
 pcps.chinaunicom.cn
-
+# 百度
+/(^|\.)sp[0-9]\.baidu\.com$/
+# 通用匹配：(www.)sp1.baidu.com
+hpd.baidu.com
+# 依据：https://hpd.baidu.com/v.gif?ct=2&logFrom=feed_index&logInfo=top_refresh&qid=...
+als.baidu.com
+# 依据：https://als.baidu.com/clog/clog?productId=...
+activity.baidu.com
+# 依据：https://activity.baidu.com/activity/felog/error?app=mcp-search&useClickHouse=false&useES=true&sendBeaconFirst=true&level=info&type=mixJump&content=...
+h2tcbox.baidu.com
+# 依据：https://h2tcbox.baidu.com/ztbox?action=zpblog&v=2.0&appname=baiduboxapp&data=...
+fclick.baidu.com
+# 依据：fclick.baidu.com/w.gif?startHeight=667&startTime=...
+wakeup.baidu.com
+# 用于网页端唤醒APP
