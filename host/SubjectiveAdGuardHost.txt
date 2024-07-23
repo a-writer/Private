@@ -29,3 +29,5 @@ cloud.browser.360.cn
 ||tt.browser.360.cn^
 ||f.360.cn^
 # 360
+boxer.baidu.com
+# 百度唤起APP，互联网中有反应会导致无法正常使用手机网页百度搜索的问题
