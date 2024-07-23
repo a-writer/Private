@@ -1,0 +1,24 @@
+#以下是各软件的内置httpDNS，排名先后以日志时间
+httpdns.n.netease.com
+httpdns.yunxindns.com
+dns.weixin.qq.com
+dns.weixin.qq.com.cn
+# 以下是搜集
+dns.jd.com
+dns.weibo.cn
+httpdns-api.aliyuncs.com
+httpdns-sc.aliyuncs.com
+httpdns.alicdn.com
+httpdns.baidu.com
+httpdns.baidubce.com
+httpdns.bilivideo.com
+httpdns.c.cdnhwc2.com
+httpdns.meituan.com
+httpdns.music.163.com
+httpdns.push.oppomobile.com
+httpdns.volcengineapi.com
+httpsdns.baidu.com
+kuaishou.httpdns.pro
+lofter.httpdns.c.163.com
+music.httpdns.c.163.com
+httpdnsvip.meituan.com
