@@ -185,3 +185,6 @@ zzhc.vnet.cn
 /(^|\.)apm[0-9]\.music\.163\.com$/
 # 通用匹配：(www.)apm3.music.163.com
 apm.music.163.com
+/(^|\.)clientlog[0-9]\.music\.163\.com$/
+# 通用匹配：(www.)clientlog3.music.163.com
+clientlog.music.163.com
