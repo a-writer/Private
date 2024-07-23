@@ -167,3 +167,8 @@ fclick.baidu.com
 # 依据：fclick.baidu.com/w.gif?startHeight=667&startTime=...
 wakeup.baidu.com
 # 用于网页端唤醒APP
+fclog.baidu.com
+# 百度JS 埋码上报域名
+# 有道
+rlogs.youdao.com
+# 依据：https://rlogs.youdao.com/rlog.php?_npid=dictweb&_ncat=event&_ncoo=...
