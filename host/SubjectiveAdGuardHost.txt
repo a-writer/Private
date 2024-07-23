@@ -31,3 +31,8 @@ cloud.browser.360.cn
 # 360
 boxer.baidu.com
 # 百度唤起APP，互联网中有反应会导致无法正常使用手机网页百度搜索的问题
+dlswbr.baidu.com
+# 百度JS反爬资源域名，尚未知晓是否可以联动页面，故Subjective
+fxgate.baidu.com
+# 百度oCPC JS SDK资源域名，未查询到其它用途，暂Subjective
+# JS 埋码是指在投放广告的网页（落地页）中引入由百度提供的 SDK 并根据实际业务场景在转化行为发生时通过 SDK 的接口来上报转化数据的接入方式。
