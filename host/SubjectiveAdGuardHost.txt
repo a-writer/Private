@@ -8,6 +8,7 @@ tj.wn51.com
 tj.hhrspb7.top
 bes-mtj.baidu.com
 click.hm.baidu.com
+ma.zijieapi.com
 # 未明确用途
 rmonitor.qq.com
 # https://privacy.qq.com/document/preview/d54c537d56764b10a9a3239f732780c2
@@ -29,8 +30,9 @@ cloud.browser.360.cn
 ||tt.browser.360.cn^
 ||f.360.cn^
 # 360
-boxer.baidu.com
+# boxer.baidu.com
 # 百度唤起APP，互联网中有反应会导致无法正常使用手机网页百度搜索的问题
+# 240725注：多日实际测试表现为厂商未知手段检测为iPhone-Safari进入m.*****.com搜索时，下一页与部分搜索结果（常见csdn）的域名为boxer.*****.com，带来无法进入搜索结果或者下一页的问题，小部分情况从拦截域名返回搜索页重新点击可以正常进入下一页或搜索结果，应该无法单纯靠DNS进行管理。
 dlswbr.baidu.com
 # 百度JS反爬资源域名，尚未知晓是否可以联动页面，故Subjective
 fxgate.baidu.com
