@@ -1,3 +1,5 @@
+# 常见关键词 log logs report reports analytic analytics
+# 常见关键词 ad ads cps
 # 未明确
 catalog.gamepass.com
 ||toblog.ctobsnssdk.com^
@@ -7,18 +9,21 @@ catalog.gamepass.com
 msg.umengcloud.com
 ||mssdk-bu.bytedance.com^
 report.uchiha.ltd
-# 米哈游
+# sentry官方
+||sentry.io^
+# miHaYou
 h5log-api-dualstack.mihoyo.com
 log-upload-v6.mihoyo.com
 log-upload.mihoyo.com
 devlog-upload.mihoyo.com
 public-data-api.mihoyo.com
 apm-log-upload-v6.mihoyo.com
-# 米哈游国际
+sentry-inc.ssr.mihoyo.com
+# miHaYou国际
 log-upload-os.hoyoverse.com
 log-upload-os.mihoyo.com
 sg-public-data-api.hoyoverse.com
-# 米哈游独立专用
+# miHaYou独立专用
 ad-log-upload.mihoyo.com
 hkrpg-log-upload.mihoyo.com
 ys-log-upload.mihoyo.com
@@ -26,14 +31,14 @@ zzz-log-upload.mihoyo.com
 dispatchcnglobal.yuanshen.com
 uspider.yuanshen.com
 cnuspider.yuanshen.com
-# 米哈游独立专用上报(国际)
+# miHaYou独立专用上报(国际)
 overseauspider.yuanshen.com
-# 番茄小说
+# fanQieXiaoShuo
 /(^|\.)log[0-9]-applog-hl\.fqnovel\.com$/
 # 通用log0-applog-hl.fqnovel.com和www.log0-applog-hl.fqnovel.com
 /(^|\.)rtlog[0-9]-applog-hl\.fqnovel\.com$/
 # 上同通用：(www.)rtlog5-applog-hl.fqnovel.com
-# 微信支付
+# weiXinZhiFu
 log.wechatpay.cn
 #阿里云高防公共域名：aliyunddos1019.com
 # unity3d部分
@@ -45,22 +50,22 @@ cdp.cloud.unity3d.com
 remote-config-proxy-prd.uca.cloud.unity3d.com
 o.iads.unity3d.com
 ae.iads.unity3d.com
-# 百分浏览器
+# baiFenLiuLanQi
 stat.centbrowser.cn
-# 迅雷
+# xunLei
 hub5pr.v6.phub.sandai.net
-# 腾讯
+# tengXun
 safebrowsing.urlsec.qq.com
-# 谷歌
+# guGe
 safebrowsing.googleapis.com
-# 哔哩哔哩
+# biLiBiLi
 data.bilibili.com
 live-trace.bilibili.com
 # 以下是疑似且不影响正常使用的域名
-# 迅雷
+# xunLei
 hub5pn.v6.sandai.net
 hub5pnc.sandai.net
-# 原神资源更新 autopatchcn.yuanshen.com autopatchhk.yuanshen.com genshinimpact.mihoyo.com
+# yuanShen资源更新 autopatchcn.yuanshen.com autopatchhk.yuanshen.com genshinimpact.mihoyo.com
 # MIUI系列：
 # 安装检查
 api.installer.xiaomi.com
@@ -71,11 +76,11 @@ diagnosis.ad.xiaomi.com
 log.ad.xiaomi.com
 m.track.ad.xiaomi.com
 sdkconfig.ad.xiaomi.com
-# 反诈
+# fanZha
 flash.sec.miui.com
-# 快应用
+# kuaiYingYong
 api.hybrid.xiaomi.com
-# 浏览器 热点下滑等
+# liuLanQi ReDianXiaHua等
 o2o.api.xiaomi.com
 api.browser.miui.com
 ssl-cdn.static.browser.mi-img.com
@@ -87,7 +92,7 @@ c3-cache.browser.miui.com
 api-ipv4.browser.miui.com
 # 系统应用检查更新 e.g 下载管理
 api.developer.xiaomi.com
-# 小米云扫描组件
+# xiaoMi云扫描组件
 log.avlyun.sec.intl.miui.com
 update.avlyun.sec.miui.com
 ixav-cse.avlyun.com
@@ -97,7 +102,7 @@ sdkconf.avlyun.com
 # OPPO
 ||sms.ads.heytapmobi.com^
 ||cl-data.ads.heytapmobi.com^
-# 书旗
+# shuQi
 dsp-x.jd.com
 xlog.jd.com
 janapi.jd.com
@@ -106,13 +111,13 @@ janapi.jd.com
 ||mos.m.taobao.com^
 ||sdk-log.partner.sm.cn^
 ||opehs.tanx.com^
-# 七猫免费小说
+# qiMaoMianFeiXiaoShuo
 cdn-new-ad.wtzw.com
 a-remad.qm989.com
 open.kuaishouzt.com
-# QQ浏览器小说广告
+# qqLiuLanQiXiaoShuo
 ||kde.qq.com^
-# 字节系 AD API SDK 屏蔽
+# ziJie系 AD API SDK 屏蔽
 /pangolin-sdk.*/
 /pangolin-sdk-toutiao.*/
 /pangolin-sdk-toutiao1.*/
@@ -148,11 +153,11 @@ open.kuaishouzt.com
 ||localads.chengzijianzhan.cn^
 ||localads.chengzijianzhan.cn.queniurc.com^
 ||ads*-normal-lf.zijieapi.com.dhcp^
-# 联合通信
+# lianTong
 analytics.10010.com
 analytics2.10010.com
 pcps.chinaunicom.cn
-# 百度
+# baiDu
 /(^|\.)sp[0-9]\.baidu\.com$/
 # 通用匹配：(www.)sp1.baidu.com
 /(^|\.)gsp[0-9]\.baidu\.com$/
@@ -170,19 +175,26 @@ fclick.baidu.com
 wakeup.baidu.com
 # 用于网页端唤醒APP
 fclog.baidu.com
-# 百度JS 埋码上报域名
+# 厂家JS 埋码上报域名
 click-bes.baidu.com
 # 点击事件收集
 push.zhanzhang.baidu.com
-# 有道
+# youDao
 rlogs.youdao.com
 # 依据：https://rlogs.youdao.com/rlog.php?_npid=dictweb&_ncat=event&_ncoo=...
 # 数据收集，依据：https://tech.sina.com.cn/i/2019-03-25/doc-ihsxncvh5289363.shtml
 zzhc.vnet.cn
-# 网易云音乐
+# wangYiYunYinYue
 /(^|\.)apm[0-9]\.music\.163\.com$/
 # 通用匹配：(www.)apm3.music.163.com
 apm.music.163.com
 /(^|\.)clientlog[0-9]\.music\.163\.com$/
 # 通用匹配：(www.)clientlog3.music.163.com
 clientlog.music.163.com
+sentry.music.163.com
+sentry-proxy.music.163.com
+# 疑似FireBase信息收集
+firebaseremoteconfig.googleapis.com
+firebaselogging.googleapis.com
+# lianXiang
+sentry-lb.lenovo.com.cn
