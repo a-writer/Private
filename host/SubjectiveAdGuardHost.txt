@@ -38,3 +38,4 @@ dlswbr.baidu.com
 fxgate.baidu.com
 # 百度oCPC JS SDK资源域名，未查询到其它用途，暂Subjective
 # JS 埋码是指在投放广告的网页（落地页）中引入由百度提供的 SDK 并根据实际业务场景在转化行为发生时通过 SDK 的接口来上报转化数据的接入方式。
+log.tailscale.io
