@@ -44,12 +44,21 @@ log.tailscale.io
 log.weixin.qq.com
 mllog.jd.com
 log.ys7.com
-# 第三方关于fanQieXiaoShuo
-||apd-pcdnwxlogin.teg.tencent-cloud.net^
-||activity-ag.awemeughun.com^
+logcn.ys7.com
 # 第三方未明确
 ||apd-pcdnwxstat.teg.tencent-cloud.net^
 ||apd-pcdnwxnat.teg.tencent-cloud.net^
 ||apd-pcdnvodstat.teg.tencent-cloud.net^
 ||apd-vodp2plogin.teg.tencent-cloud.net^
 ||gd.xinhuanet.com^
+# 第三方关于fanQieXiaoShuo
+||apd-pcdnwxlogin.teg.tencent-cloud.net^
+||activity-ag.awemeughun.com^
+# fanQieXiaoShuo加强
+||tnc*-alisc*.zijieapi.com^
+||tnc*-alisc*.snssdk.com^
+||abtest*-misc-lf.zijieapi.com^
+||abtest*-misc-lq.zijieapi.com^
+||mon*-misc-*.amemv.com^
+||mon*-misc-*.fqnovel.com^
+lf-reward-video.bytedcdn.com
