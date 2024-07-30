@@ -9,6 +9,8 @@ tj.hhrspb7.top
 bes-mtj.baidu.com
 click.hm.baidu.com
 ma.zijieapi.com
+||device.cup.com.cn^
+data.ab.qq.com
 # 未明确用途
 rmonitor.qq.com
 # https://privacy.qq.com/document/preview/d54c537d56764b10a9a3239f732780c2
