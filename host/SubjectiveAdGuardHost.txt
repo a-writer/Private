@@ -1,6 +1,6 @@
 # Please note, this is a subjective AdGuard Home Host file.
 # This file is intended for specific scenarios and is not recommended for use by unrelated personnel.
-# 极端规则 追求极致效果可以尝试
+# 极端规则 正在测试影响 追求极致效果可以尝试
 # 无法保证是否影响正常使用 可能存在若干误判规则
 
 ||device.cup.com.cn^
@@ -89,3 +89,6 @@ lf-reward-video.bytedcdn.com
 report.battleofballs.com
 /(^|\.)report[0-9]\.battleofballs\.com$/
 # 第三方关于 qiuQiuDaZuoZhan
+
+statistical-report.djiservice.org
+# 第三方关于 daJiang
