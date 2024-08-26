@@ -1,17 +1,21 @@
 # Please note, this is a subjective AdGuard Home Host file.
 # This file is intended for specific scenarios and is not recommended for use by unrelated personnel.
-# 极端规则 无法保证是否影响正常使用
-ichannel.snssdk.com
-vas-lf-x.snssdk.com
+# 极端规则 追求极致效果可以尝试
+# 无法保证是否影响正常使用 可能存在若干误判规则
+
 ||device.cup.com.cn^
 tj.wn51.com
 tj.hhrspb7.top
-bes-mtj.baidu.com
-click.hm.baidu.com
-ma.zijieapi.com
 ||device.cup.com.cn^
 data.ab.qq.com
+logcollection.ronghub.com
+log.weixin.qq.com
+logbk-qd.amemv.com
 # 未明确用途
+
+log.tailscale.io
+# outside
+
 rmonitor.qq.com
 # https://privacy.qq.com/document/preview/d54c537d56764b10a9a3239f732780c2
 # SDK名称：RMonitor
@@ -19,19 +23,29 @@ rmonitor.qq.com
 # 使用目的：用于统计用户数量
 # 处理方式：通过去标识化、加密传输和处理的安全处理方式
 # 收集个人信息类型：Identifier For Vendor(供应商标识符）
+
 applogsg.matrix.netease.com
 analytics.mpay.netease.com
 audiostatlog.cc.163.com
-# wangYi
+# 第三方关于 wangYi
+
+ichannel.snssdk.com
+vas-lf-x.snssdk.com
+ma.zijieapi.com
 lf3-analytics.bytescm.com
 ||lf3-analytics.bytescm.com.queniuuf.com^
-# ziJie
+# 第三方关于 ziJie
+
 ||google-analytics.com^
 # 谷歌
+
 cloud.browser.360.cn
 ||tt.browser.360.cn^
 ||f.360.cn^
-# sanLiuLing
+# 第三方关于 sanLiuLing
+
+bes-mtj.baidu.com
+click.hm.baidu.com
 # boxer.baidu.com
 # **唤起APP，互联网中有反应会导致无法正常使用手机网页百度搜索的问题
 # 240725注：多日实际测试表现为厂商未知手段检测为iPhone-Safari进入m.*****.com搜索时，下一页与部分搜索结果（常见csdn）的域名为boxer.*****.com，带来无法进入搜索结果或者下一页的问题，小部分情况从拦截域名返回搜索页重新点击可以正常进入下一页或搜索结果，应该无法单纯靠DNS进行管理。
@@ -40,21 +54,26 @@ dlswbr.baidu.com
 fxgate.baidu.com
 # **oCPC JS SDK资源域名，未查询到其它用途，暂Subjective
 # JS 埋码是指在投放广告的网页（落地页）中引入由百度提供的 SDK 并根据实际业务场景在转化行为发生时通过 SDK 的接口来上报转化数据的接入方式。
-log.tailscale.io
-log.weixin.qq.com
+# 第三方关于 baiDu
+
 mllog.jd.com
+anti-sdk-report.m.jd.com
+# 第三方关于 jingDong
+
 log.ys7.com
 logcn.ys7.com
-# 第三方未明确
+# 第三方关于 yingShi
+
+
 ||apd-pcdnwxstat.teg.tencent-cloud.net^
 ||apd-pcdnwxnat.teg.tencent-cloud.net^
 ||apd-pcdnvodstat.teg.tencent-cloud.net^
 ||apd-vodp2plogin.teg.tencent-cloud.net^
 ||gd.xinhuanet.com^
-# 第三方关于fanQieXiaoShuo
+# 第三方关于 fanQieXiaoShuo
+
 ||apd-pcdnwxlogin.teg.tencent-cloud.net^
 ||activity-ag.awemeughun.com^
-# fanQieXiaoShuo加强
 ||tnc*-alisc*.zijieapi.com^
 ||tnc*-alisc*.snssdk.com^
 ||abtest*-misc-lf.zijieapi.com^
@@ -62,3 +81,11 @@ logcn.ys7.com
 ||mon*-misc-*.amemv.com^
 ||mon*-misc-*.fqnovel.com^
 lf-reward-video.bytedcdn.com
+# fanQieXiaoShuo加强
+
+/(^|\.)logreport-v[0-9]\.imou\.com$/
+# 第三方关于 leCheng
+
+report.battleofballs.com
+/(^|\.)report[0-9]\.battleofballs\.com$/
+# 第三方关于 qiuQiuDaZuoZhan
