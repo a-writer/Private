@@ -1,6 +1,7 @@
 # 常见关键词 log logs report reports analytic analytics
 # 常见关键词 ad ads cps
 # 未明确
+applog.zijieapi.com
 catalog.gamepass.com
 ||toblog.ctobsnssdk.com^
 ||pangolin.snssdk.com^
