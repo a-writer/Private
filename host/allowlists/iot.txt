@@ -1,0 +1,14 @@
+# 本文件收录的是经过测试，【对拦截效果影响最小】或【必须放行才可以正常使用】的白名单域名：IOT分类。
+# 收录部分经过实测试，尽量不使用通配符
+a3.tuyacn.com
+m2.tuyacn.com
+# 来源：tuYa多模网关（硬件）
+
+a1.iot17.com
+a1-cn.iotwish.com
+m1.iot17.com
+m1-cn.iotwish.com
+# 来源：tuYa手机APP（安卓/IOS）
+
+iotmqtt-app-hz.imou.com
+# 来源：leCheng手机APP（安卓/IOS）
