@@ -225,3 +225,20 @@ firebaselogging.googleapis.com
 
 # lianXiang
 sentry-lb.lenovo.com.cn
+
+# tailscale
+log.tailscale.io
+
+# kuGou
+ads.service.kugou.com
+adserviceretry.kugou.com
+
+# kuWo
+ad.tencentmusic.com
+g.koowo.com
+mobilead.kuwo.cn
+rich.kuwo.cn
+
+# meiTuan
+maplocatesdksnapshot.d.meituan.net
+metrics-picture.d.meituan.net
