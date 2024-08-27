@@ -10,8 +10,6 @@ catalog.gamepass.com
 msg.umengcloud.com
 ||mssdk-bu.bytedance.com^
 report.uchiha.ltd
-# sentry官方
-||sentry.io^
 # miHaYou
 h5log-api-dualstack.mihoyo.com
 log-upload-v6.mihoyo.com
