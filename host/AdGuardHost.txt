@@ -119,6 +119,9 @@ open.kuaishouzt.com
 # qqLiuLanQiXiaoShuo
 ||kde.qq.com^
 # ziJie系 AD API SDK 屏蔽
+mon.snssdk.com
+log.snssdk.com
+xlog.snssdk.com
 /pangolin-sdk.*/
 /pangolin-sdk-toutiao.*/
 /pangolin-sdk-toutiao1.*/
