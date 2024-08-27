@@ -70,6 +70,7 @@ safebrowsing.googleapis.com
 
 # biLiBiLi
 data.bilibili.com
+dataflow.biliapi.com
 live-trace.bilibili.com
 
 # 以下是疑似且不影响正常使用的域名
