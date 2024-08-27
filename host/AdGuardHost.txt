@@ -63,9 +63,6 @@ safebrowsing.googleapis.com
 data.bilibili.com
 live-trace.bilibili.com
 # 以下是疑似且不影响正常使用的域名
-# xunLei
-hub5pn.v6.sandai.net
-hub5pnc.sandai.net
 # yuanShen资源更新 autopatchcn.yuanshen.com autopatchhk.yuanshen.com genshinimpact.mihoyo.com
 # MIUI系列：
 # 安装检查
