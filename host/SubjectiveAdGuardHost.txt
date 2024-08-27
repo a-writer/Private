@@ -13,15 +13,7 @@
 tj.wn51.com
 tj.hhrspb7.top
 ||device.cup.com.cn^
-data.ab.qq.com
 logcollection.ronghub.com
-log.weixin.qq.com
-logbk-qd.amemv.com
-mazu.m.qq.com
-mazu.3g.qq.com
-||info.appbuyapp.com^
-||beacon.qq.com^
-||bugly.qq.com^
 mum.alibabachengdun.com
 cdn-mum.alibabachengdun.com
 acs-mum.alibabachengdun.com
@@ -57,6 +49,28 @@ rmonitor.qq.com
 # 使用目的：用于统计用户数量
 # 处理方式：通过去标识化、加密传输和处理的安全处理方式
 # 收集个人信息类型：Identifier For Vendor(供应商标识符）
+tmfsdk.m.qq.com
+tmfsdk4.m.qq.com
+tmfsdk6.m.qq.com
+tmfsdktcpv4.m.qq.com
+tmfsdktcpv6.m.qq.com
+tmeadcomm.y.qq.com
+tools.3g.qq.com
+tmfsdktcp.m.qq.com
+||trace.qq.com^
+||tpstelemetry.tencent.com^
+api.yky.qq.com
+cfg.imtt.qq.com
+||rqd.qq.com^
+log.weixin.qq.com
+logbk-qd.amemv.com
+mazu.m.qq.com
+mazu.3g.qq.com
+||info.appbuyapp.com^
+||beacon.qq.com^
+||bugly.qq.com^
+data.ab.qq.com
+# 第三方关于tengXun
 
 applogsg.matrix.netease.com
 analytics.mpay.netease.com
@@ -165,18 +179,6 @@ adinfo.ra1.xlmc.sec.miui.com
 test.ad.xiaomi.com
 # 第三方关于 xiaoMi MIUI
 
-tmfsdk.m.qq.com
-tmfsdk4.m.qq.com
-tmfsdk6.m.qq.com
-tmfsdktcpv4.m.qq.com
-tmfsdktcpv6.m.qq.com
-tmeadcomm.y.qq.com
-tools.3g.qq.com
-tmfsdktcp.m.qq.com
-||trace.qq.com^
-||tpstelemetry.tencent.com^
-api.yky.qq.com
-cfg.imtt.qq.com
 statres.quickapp.cn
 qr.quickapp.cn
 pssn.alicdn.com
@@ -188,3 +190,9 @@ www.pangolin-dsp-toutiao.com
 
 ecad2.cebbank.com
 # 第三方关于 yunJiaoFei APP
+
+utoken.umeng.com
+# 来源：woShiPing-IOS
+# 第三方关于 umeng sdk
+
+# 第三方关于bilibili
