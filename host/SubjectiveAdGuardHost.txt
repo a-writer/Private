@@ -37,10 +37,9 @@ agoo-report.m.taobao.com
 tracker-01.qvb.qcloud.com
 sentry-monitor-new.zdmimg.com
 # shenMeZhiDeMai
+analytics.95516.com
+adv.ccb.com
 # 根据关键字收录的未明确用途
-
-log.tailscale.io
-# outside
 
 rmonitor.qq.com
 # https://privacy.qq.com/document/preview/d54c537d56764b10a9a3239f732780c2
@@ -70,6 +69,14 @@ mazu.3g.qq.com
 ||beacon.qq.com^
 ||bugly.qq.com^
 data.ab.qq.com
+info4.video.qq.com
+info6.video.qq.com
+tmead.y.qq.com
+tmeadbak.y.qq.com
+tmeadcomm.y.qq.com
+trace.qq.com
+trace.*.qq.com
+# 原始：trace.video.qq.com
 # 第三方关于tengXun
 
 applogsg.matrix.netease.com
