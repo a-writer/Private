@@ -3,6 +3,10 @@ httpdns.n.netease.com
 httpdns.yunxindns.com
 dns.weixin.qq.com
 dns.weixin.qq.com.cn
+doh.zjurl.cn
+# 240828 来源：com.ss.android.lark(5.5.3)
+ttnet-doh.feishu.cn
+# 240828 来源：com.ss.android.lark(5.5.3)
 # 以下是搜集
 dns.jd.com
 dns.weibo.cn
