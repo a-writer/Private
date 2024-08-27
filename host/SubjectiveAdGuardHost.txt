@@ -40,6 +40,9 @@ sentry-monitor-new.zdmimg.com
 analytics.95516.com
 adv.ccb.com
 imageadv.ccb.com
+adim.pinduoduo.com
+adim.pinduoduo.com
+tracklog.58.com
 # 根据关键字收录的未明确用途
 
 rmonitor.qq.com
@@ -204,3 +207,7 @@ utoken.umeng.com
 # 第三方关于 umeng sdk
 
 # 第三方关于bilibili
+
+shouji.sogou.com
+# AVD-2023-42579 搜狗 http://shouji.sogou.com/web_ime/mobile_pb.php
+# fixBug
