@@ -3,6 +3,9 @@
 # 极端规则 正在测试影响 追求极致效果可以尝试
 # 无法保证是否影响正常使用 可能存在若干误判规则
 
+# sentry 全禁
+||sentry.io^
+
 ||device.cup.com.cn^
 tj.wn51.com
 tj.hhrspb7.top
