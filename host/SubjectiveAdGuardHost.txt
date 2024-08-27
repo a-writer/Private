@@ -32,6 +32,7 @@ static-xl9-ssl.xunlei.com
 ||analytics.query.yahoo.com^
 ||google-analytics.com^
 agoo-report.m.taobao.com
+# 注意agoo-report.m.taobao.com在什么值得买中有反应是天猫精灵的识别接口，测试未影响唤醒和使用.
 # 根据关键字收录的未明确用途
 
 log.tailscale.io
