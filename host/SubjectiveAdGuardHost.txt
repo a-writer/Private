@@ -39,6 +39,7 @@ sentry-monitor-new.zdmimg.com
 # shenMeZhiDeMai
 analytics.95516.com
 adv.ccb.com
+imageadv.ccb.com
 # 根据关键字收录的未明确用途
 
 rmonitor.qq.com
