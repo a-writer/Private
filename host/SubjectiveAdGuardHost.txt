@@ -122,6 +122,12 @@ logcn.ys7.com
 lf-reward-video.bytedcdn.com
 # fanQieXiaoShuo加强
 
+/(^|\.)frontier-toutiao-lb-v[0-9]\.hl\.bytelb\.net$/
+# direct.frontier-toutiao-lb-v3.hl.bytelb.net
+/(^|\.)frontier[0-999]-toutiao-hl\.fqnovel\.com$/
+# frontier100-toutiao-hl.fqnovel.com
+# fanQieXiaoShuo测试
+
 /(^|\.)logreport-v[0-9]\.imou\.com$/
 # 第三方关于 leCheng
 
