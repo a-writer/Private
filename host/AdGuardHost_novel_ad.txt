@@ -1,0 +1,4 @@
+# 本文件收录一些小说网站中出现的【已用于广告的乱码、纯数字域名】、【信息收集统计域名】
+# 适用于AdGuard Home
+||gdfdhshfh.top^
+||histats.com^
