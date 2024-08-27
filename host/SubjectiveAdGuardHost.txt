@@ -28,6 +28,7 @@ acs-mum.alibabachengdun.com
 vip-bgp-mum.alibabachengdun.com
 vip-chinanet-mum.alibabachengdun.com
 vip-cmcc-mum.alibabachengdun.com
+apm-api.mihoyo.com
 # 未明确用途
 
 stats.chinaz.com
@@ -60,6 +61,11 @@ analytics.mpay.netease.com
 audiostatlog.cc.163.com
 # 第三方关于 wangYi
 
+apmplus.volces.com
+# 应用性能监控全链路版
+# APMPlus是字节跳动应用开发套件MARS下的性能监控产品
+# 接入说明--应用性能监控全链路版
+# 2022年6月20日 — Parfait SDK是APMPlus PC监控平台的官方SDK，提供跨平台C++ API，是动态库，可监控应用线上稳定性问题。 步骤一：接入SDK. Native App接入. 下载SDK。
 ichannel.snssdk.com
 vas-lf-x.snssdk.com
 tbm.snssdk.com
