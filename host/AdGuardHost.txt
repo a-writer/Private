@@ -1,15 +1,14 @@
-# 常见关键词 log logs report reports analytic analytics
+# 常见关键词 log logs report reports analytic analytics sentry
 # 常见关键词 ad ads cps
+
 # 未明确
 applog.zijieapi.com
 catalog.gamepass.com
-||toblog.ctobsnssdk.com^
-||pangolin.snssdk.com^
 ||ulogs.umeng.com^
 ||aaid.umeng.com^
 msg.umengcloud.com
-||mssdk-bu.bytedance.com^
 report.uchiha.ltd
+
 # miHaYou
 h5log-api-dualstack.mihoyo.com
 log-upload-v6.mihoyo.com
@@ -18,10 +17,12 @@ devlog-upload.mihoyo.com
 public-data-api.mihoyo.com
 apm-log-upload-v6.mihoyo.com
 sentry-inc.ssr.mihoyo.com
+
 # miHaYou国际
 log-upload-os.hoyoverse.com
 log-upload-os.mihoyo.com
 sg-public-data-api.hoyoverse.com
+
 # miHaYou独立专用
 ad-log-upload.mihoyo.com
 hkrpg-log-upload.mihoyo.com
@@ -30,16 +31,21 @@ zzz-log-upload.mihoyo.com
 dispatchcnglobal.yuanshen.com
 uspider.yuanshen.com
 cnuspider.yuanshen.com
+
 # miHaYou独立专用上报(国际)
 overseauspider.yuanshen.com
+
 # fanQieXiaoShuo
 /(^|\.)log[0-9]-applog-hl\.fqnovel\.com$/
 # 通用log0-applog-hl.fqnovel.com和www.log0-applog-hl.fqnovel.com
 /(^|\.)rtlog[0-9]-applog-hl\.fqnovel\.com$/
 # 上同通用：(www.)rtlog5-applog-hl.fqnovel.com
+
 # weiXinZhiFu
 log.wechatpay.cn
+
 #阿里云高防公共域名：aliyunddos1019.com
+
 # unity3d部分
 # 引用自https://github.com/an-anime-team/flatpak-builds/blob/main/moe.launcher.an-anime-game-launcher.sh
 prd-lender.cdp.internal.unity3d.com
@@ -49,19 +55,26 @@ cdp.cloud.unity3d.com
 remote-config-proxy-prd.uca.cloud.unity3d.com
 o.iads.unity3d.com
 ae.iads.unity3d.com
+
 # baiFenLiuLanQi
 stat.centbrowser.cn
+
 # xunLei
 hub5pr.v6.phub.sandai.net
+
 # tengXun
 safebrowsing.urlsec.qq.com
+
 # guGe
 safebrowsing.googleapis.com
+
 # biLiBiLi
 data.bilibili.com
 live-trace.bilibili.com
+
 # 以下是疑似且不影响正常使用的域名
 # yuanShen资源更新 autopatchcn.yuanshen.com autopatchhk.yuanshen.com genshinimpact.mihoyo.com
+
 # MIUI系列：
 # 安装检查
 api.installer.xiaomi.com
@@ -95,9 +108,11 @@ ixav-cse.avlyun.com
 logupdate.avlyun.sec.miui.com
 miui-fxcse.avlyun.com
 sdkconf.avlyun.com
+
 # OPPO
 ||sms.ads.heytapmobi.com^
 ||cl-data.ads.heytapmobi.com^
+
 # shuQi
 dsp-x.jd.com
 xlog.jd.com
@@ -107,13 +122,19 @@ janapi.jd.com
 ||mos.m.taobao.com^
 ||sdk-log.partner.sm.cn^
 ||opehs.tanx.com^
+
 # qiMaoMianFeiXiaoShuo
 cdn-new-ad.wtzw.com
 a-remad.qm989.com
 open.kuaishouzt.com
+
 # qqLiuLanQiXiaoShuo
 ||kde.qq.com^
+
 # ziJie系 AD API SDK 屏蔽
+log.zijieapi.com
+||pangolin.snssdk.com^
+||mssdk-bu.bytedance.com^
 mon.snssdk.com
 log.snssdk.com
 xlog.snssdk.com
@@ -152,10 +173,12 @@ xlog.snssdk.com
 ||localads.chengzijianzhan.cn^
 ||localads.chengzijianzhan.cn.queniurc.com^
 ||ads*-normal-lf.zijieapi.com.dhcp^
+
 # lianTong
 analytics.10010.com
 analytics2.10010.com
 pcps.chinaunicom.cn
+
 # baiDu
 /(^|\.)sp[0-9]\.baidu\.com$/
 # 通用匹配：(www.)sp1.baidu.com
@@ -178,11 +201,13 @@ fclog.baidu.com
 click-bes.baidu.com
 # 点击事件收集
 push.zhanzhang.baidu.com
+
 # youDao
 rlogs.youdao.com
 # 依据：https://rlogs.youdao.com/rlog.php?_npid=dictweb&_ncat=event&_ncoo=...
 # 数据收集，依据：https://tech.sina.com.cn/i/2019-03-25/doc-ihsxncvh5289363.shtml
 zzhc.vnet.cn
+
 # wangYiYunYinYue
 /(^|\.)apm[0-9]\.music\.163\.com$/
 # 通用匹配：(www.)apm3.music.163.com
@@ -192,8 +217,10 @@ apm.music.163.com
 clientlog.music.163.com
 sentry.music.163.com
 sentry-proxy.music.163.com
+
 # 疑似FireBase信息收集
 firebaseremoteconfig.googleapis.com
 firebaselogging.googleapis.com
+
 # lianXiang
 sentry-lb.lenovo.com.cn
