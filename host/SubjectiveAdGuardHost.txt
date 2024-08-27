@@ -3,8 +3,11 @@
 # 极端规则 正在测试影响 追求极致效果可以尝试
 # 无法保证是否影响正常使用 可能存在若干误判规则
 
-# sentry 全禁
 ||sentry.io^
+# sentry 全禁
+
+||uyunad.com^
+# uyunad 全禁
 
 ||device.cup.com.cn^
 tj.wn51.com
@@ -14,7 +17,22 @@ data.ab.qq.com
 logcollection.ronghub.com
 log.weixin.qq.com
 logbk-qd.amemv.com
+mazu.m.qq.com
+mazu.3g.qq.com
+||info.appbuyapp.com^
+||beacon.qq.com^
+||bugly.qq.com^
 # 未明确用途
+
+stats.chinaz.com
+stat.m.jd.com
+zhstatic.zhihu.com
+zhihu-web-analytics.zhihu.com
+static-xl9-ssl.xunlei.com
+||analytics.query.yahoo.com^
+||google-analytics.com^
+agoo-report.m.taobao.com
+# 根据关键字收录的未明确用途
 
 log.tailscale.io
 # outside
@@ -38,6 +56,9 @@ tbm.snssdk.com
 ma.zijieapi.com
 lf3-analytics.bytescm.com
 ||lf3-analytics.bytescm.com.queniuuf.com^
+toblog.ctobsnssdk.com
+tobapplog.ctobsnssdk.com
+ug.snssdk.com
 # 第三方关于 ziJie
 
 ||google-analytics.com^
@@ -46,6 +67,10 @@ lf3-analytics.bytescm.com
 cloud.browser.360.cn
 ||tt.browser.360.cn^
 ||f.360.cn^
+||50union.com^
+||union.360.cn^
+||appjiagu.com^
+||sayhi.360.cn^
 # 第三方关于 sanLiuLing
 
 bes-mtj.baidu.com
@@ -100,6 +125,9 @@ statistical-report.djiservice.org
 test.api.xlmc.sandai.net
 hub5pn.*.sandai.net
 hub5pnc.sandai.net
+hub5u.wap.sandai.net
+idx.m.hub.sandai.net
+uploadlog.xlmc.sandai.net
 # 第三方关于 xunLei
 
 qsb.browser.miui.srv
@@ -107,6 +135,10 @@ rom.pt.miui.srv
 ccc.sys.miui.com
 jupiter.sys.miui.com
 metok.sys.miui.com
+hybrid.miui.com
+hybrid.xiaomi.com
+adinfo.ra1.xlmc.sec.miui.com
+test.ad.xiaomi.com
 # 第三方关于 xiaoMi MIUI
 
 tmfsdk.m.qq.com
@@ -114,9 +146,21 @@ tmfsdk4.m.qq.com
 tmfsdk6.m.qq.com
 tmfsdktcpv4.m.qq.com
 tmfsdktcpv6.m.qq.com
-othstr.beacon.qq.com
+tmeadcomm.y.qq.com
 tools.3g.qq.com
 tmfsdktcp.m.qq.com
 ||trace.qq.com^
+||tpstelemetry.tencent.com^
+api.yky.qq.com
+cfg.imtt.qq.com
+statres.quickapp.cn
+qr.quickapp.cn
+pssn.alicdn.com
+t7z.cupid.iqiyi.com
+mpush-api.aliyun.com
+worldwide.sogou.com
+www.pangolin-dsp-toutiao.com
+# 一些来自于MIUI等系统内置应用的可能无用的SDK
 
-# 可能是一些来自于MIUI等系统内置应用的无用SDK
+ecad2.cebbank.com
+# 第三方关于 yunJiaoFei APP
