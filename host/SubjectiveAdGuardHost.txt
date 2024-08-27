@@ -22,6 +22,12 @@ mazu.3g.qq.com
 ||info.appbuyapp.com^
 ||beacon.qq.com^
 ||bugly.qq.com^
+mum.alibabachengdun.com
+cdn-mum.alibabachengdun.com
+acs-mum.alibabachengdun.com
+vip-bgp-mum.alibabachengdun.com
+vip-chinanet-mum.alibabachengdun.com
+vip-cmcc-mum.alibabachengdun.com
 # 未明确用途
 
 stats.chinaz.com
@@ -33,6 +39,9 @@ static-xl9-ssl.xunlei.com
 ||google-analytics.com^
 agoo-report.m.taobao.com
 # 注意agoo-report.m.taobao.com在什么值得买中有反应是天猫精灵的识别接口，测试未影响唤醒和使用.
+tracker-01.qvb.qcloud.com
+sentry-monitor-new.zdmimg.com
+# shenMeZhiDeMai
 # 根据关键字收录的未明确用途
 
 log.tailscale.io
