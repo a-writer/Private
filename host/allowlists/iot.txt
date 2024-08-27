@@ -12,3 +12,6 @@ m1-cn.iotwish.com
 
 iotmqtt-app-hz.imou.com
 # 来源：leCheng手机APP（安卓/IOS）
+
+router-app-api.jdcloud.com
+# 来源：jingDongYunWuXianBao手机APP（安卓/IOS）
