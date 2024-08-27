@@ -179,6 +179,10 @@ idx.m.hub.sandai.net
 uploadlog.xlmc.sandai.net
 # 第三方关于 xunLei
 
+api-installer.pt.xiaomi.com
+# 安装检查 疑似内网版 10.38.165.18
+preview-api.installer.xiaomi.com
+# 未启用的安装检查
 qsb.browser.miui.srv
 rom.pt.miui.srv
 ccc.sys.miui.com
