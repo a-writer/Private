@@ -47,6 +47,8 @@ tmeadcomm.y.qq.com
 trace.qq.com
 trace.*.qq.com
 # 原始：trace.video.qq.com
+||dsp.fcbox.com^
+sb.adtidy.org
 # 未明确用途
 
 stats.chinaz.com
@@ -209,6 +211,8 @@ hybrid.miui.com
 hybrid.xiaomi.com
 adinfo.ra1.xlmc.sec.miui.com
 test.ad.xiaomi.com
+sentry.d.xiaomi.net
+sentry.d.mi.com
 # 第三方关于 xiaoMi MIUI
 
 statres.quickapp.cn
