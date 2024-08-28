@@ -60,7 +60,9 @@ agoo-report.m.taobao.com
 # 注意agoo-report.m.taobao.com在什么值得买中有反应是天猫精灵的识别接口，测试未影响唤醒和使用.
 tracker-01.qvb.qcloud.com
 sentry-monitor-new.zdmimg.com
-# shenMeZhiDeMai
+/(^|\.)analytics-api-0[0-9]\.smzdm\.com$/
+# 原始: analytics-api-01.smzdm.com，多地Ping得知02等等都没有启用
+# 这三个都是 shenMeZhiDeMai
 analytics.95516.com
 adv.ccb.com
 imageadv.ccb.com
@@ -69,6 +71,7 @@ adim.pinduoduo.com
 tracklog.58.com
 analyze.lemurbrowser.com
 glitchtip.jgeek00.com
+adtracker.medproad.com
 # 根据关键字收录的未明确用途
 
 rmonitor.qq.com
@@ -167,6 +170,11 @@ lf-reward-video.bytedcdn.com
 ||p11-webcast-sign.douyinpic.com^
 ||direct.webcast-websocket-lb.lf.bytelb.net^
 # fanQieXiaoShuo测试
+
+||datahubtrack.com^
+||pangolin-sdk-toutiao2-b.com^
+||pangolin-sdk-toutiao3-b.com^
+# 根据ICP信息 datahubtrack.com pangolin-sdk-toutiao1-b.com pangolin-sdk-toutiao-b.com
 
 /(^|\.)logreport-v[0-9]\.imou\.com$/
 # 第三方关于 leCheng
