@@ -1,0 +1,9 @@
+# 本文件试图收录所有隶属于 cmcc 的域名
+
+||online-cmcc.cn^
+||online-cmcc.net^
+||cmcc-cs.cn^
+||10086.cn^
+||migu.cn^
+||miguvideo.com^
+||chinamobile.com^
