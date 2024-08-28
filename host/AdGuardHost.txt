@@ -1,4 +1,4 @@
-# 常见关键词 log logs report reports analytic analytics sentry
+# 常见关键词 log logs report reports analytic analytics sentry firebase glitchtip
 # 常见关键词 ad ads cps
 
 # 未明确
@@ -222,6 +222,8 @@ sentry-proxy.music.163.com
 # 疑似FireBase信息收集
 firebaseremoteconfig.googleapis.com
 firebaselogging.googleapis.com
+firebase-settings.crashlytics.com
+firebaseinstallations.googleapis.com
 
 # lianXiang
 sentry-lb.lenovo.com.cn
