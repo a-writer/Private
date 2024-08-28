@@ -47,7 +47,6 @@ tmeadcomm.y.qq.com
 trace.qq.com
 trace.*.qq.com
 # 原始：trace.video.qq.com
-apm.app.coc.10086.cn
 # 未明确用途
 
 stats.chinaz.com
@@ -95,6 +94,7 @@ mazu.3g.qq.com
 applogsg.matrix.netease.com
 analytics.mpay.netease.com
 audiostatlog.cc.163.com
+netapm.music.163.com
 # 第三方关于 wangYi
 
 apmplus.volces.com
@@ -227,6 +227,11 @@ utoken.umeng.com
 # 第三方关于 umeng sdk
 
 # 第三方关于bilibili
+
+apm.app.coc.10086.cn
+apm.cmccapp.coc.10086.cn
+apm.clientaccess.10086.cn
+# 第三方关于 yiDong
 
 shouji.sogou.com
 # AVD-2023-42579 搜狗 http://shouji.sogou.com/web_ime/mobile_pb.php
