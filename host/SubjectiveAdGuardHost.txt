@@ -23,6 +23,30 @@ vip-cmcc-mum.alibabachengdun.com
 apm-api.mihoyo.com
 apm.zhihu.com
 ac.dun.163yun.com
+cgi.kandian.qq.com
+# 暂时取消cgi.connect.qq.com
+configsvr.msf.3g.qq.com
+tmfsdk.m.qq.com
+tmfsdk4.m.qq.com
+tmfsdk6.m.qq.com
+tmfsdktcpv4.m.qq.com
+tmfsdktcpv6.m.qq.com
+tmeadcomm.y.qq.com
+tools.3g.qq.com
+tmfsdktcp.m.qq.com
+||trace.qq.com^
+||tpstelemetry.tencent.com^
+api.yky.qq.com
+cfg.imtt.qq.com
+data.ab.qq.com
+info4.video.qq.com
+info6.video.qq.com
+tmead.y.qq.com
+tmeadbak.y.qq.com
+tmeadcomm.y.qq.com
+trace.qq.com
+trace.*.qq.com
+# 原始：trace.video.qq.com
 # 未明确用途
 
 stats.chinaz.com
@@ -43,6 +67,8 @@ imageadv.ccb.com
 adim.pinduoduo.com
 adim.pinduoduo.com
 tracklog.58.com
+analyze.lemurbrowser.com
+glitchtip.jgeek00.com
 # 根据关键字收录的未明确用途
 
 rmonitor.qq.com
@@ -52,18 +78,6 @@ rmonitor.qq.com
 # 使用目的：用于统计用户数量
 # 处理方式：通过去标识化、加密传输和处理的安全处理方式
 # 收集个人信息类型：Identifier For Vendor(供应商标识符）
-tmfsdk.m.qq.com
-tmfsdk4.m.qq.com
-tmfsdk6.m.qq.com
-tmfsdktcpv4.m.qq.com
-tmfsdktcpv6.m.qq.com
-tmeadcomm.y.qq.com
-tools.3g.qq.com
-tmfsdktcp.m.qq.com
-||trace.qq.com^
-||tpstelemetry.tencent.com^
-api.yky.qq.com
-cfg.imtt.qq.com
 ||rqd.qq.com^
 log.weixin.qq.com
 logbk-qd.amemv.com
@@ -72,15 +86,6 @@ mazu.3g.qq.com
 ||info.appbuyapp.com^
 ||beacon.qq.com^
 ||bugly.qq.com^
-data.ab.qq.com
-info4.video.qq.com
-info6.video.qq.com
-tmead.y.qq.com
-tmeadbak.y.qq.com
-tmeadcomm.y.qq.com
-trace.qq.com
-trace.*.qq.com
-# 原始：trace.video.qq.com
 # 第三方关于tengXun
 
 applogsg.matrix.netease.com
@@ -159,6 +164,8 @@ lf-reward-video.bytedcdn.com
 # direct.frontier-toutiao-lb-v3.hl.bytelb.net
 /(^|\.)frontier[0-999]-toutiao-hl\.fqnovel\.com$/
 # frontier100-toutiao-hl.fqnovel.com
+||p11-webcast-sign.douyinpic.com^
+||direct.webcast-websocket-lb.lf.bytelb.net^
 # fanQieXiaoShuo测试
 
 /(^|\.)logreport-v[0-9]\.imou\.com$/
