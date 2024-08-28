@@ -243,3 +243,6 @@ reportappgo.189.cn
 shouji.sogou.com
 # AVD-2023-42579 搜狗 http://shouji.sogou.com/web_ime/mobile_pb.php
 # fixBug
+
+mobile-api.adguard.org
+# adguard手机版上报
