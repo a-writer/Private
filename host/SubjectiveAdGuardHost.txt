@@ -72,6 +72,8 @@ tracklog.58.com
 analyze.lemurbrowser.com
 glitchtip.jgeek00.com
 adtracker.medproad.com
+reportappgo.189.cn
+appgoad.189.cn
 # 根据关键字收录的未明确用途
 
 rmonitor.qq.com
