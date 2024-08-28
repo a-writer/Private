@@ -226,12 +226,14 @@ utoken.umeng.com
 # 来源：woShiPing-IOS
 # 第三方关于 umeng sdk
 
-# 第三方关于bilibili
+# 第三方关于 bilibili
 
 apm.app.coc.10086.cn
 apm.cmccapp.coc.10086.cn
 apm.clientaccess.10086.cn
 # 第三方关于 yiDong
+
+# 第三方关于 lianTong
 
 shouji.sogou.com
 # AVD-2023-42579 搜狗 http://shouji.sogou.com/web_ime/mobile_pb.php
