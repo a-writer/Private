@@ -47,6 +47,7 @@ tmeadcomm.y.qq.com
 trace.qq.com
 trace.*.qq.com
 # 原始：trace.video.qq.com
+apm.app.coc.10086.cn
 # 未明确用途
 
 stats.chinaz.com
