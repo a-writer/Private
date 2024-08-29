@@ -253,3 +253,7 @@ shouji.sogou.com
 
 mobile-api.adguard.org
 # adguard手机版上报
+
+||weather.battleofballs.com^
+||apis.sdk.mobileztgame.com^
+# 第三方关于 qiuQiuDaZuoZhan 不影响游戏体验
