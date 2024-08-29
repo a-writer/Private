@@ -75,6 +75,7 @@ analyze.lemurbrowser.com
 glitchtip.jgeek00.com
 adtracker.medproad.com
 hugelog.fcbox.com
+logan-rtl.dreport.meituan.net
 # 根据关键字收录的未明确用途
 
 rmonitor.qq.com
