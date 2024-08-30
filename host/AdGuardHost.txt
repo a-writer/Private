@@ -31,6 +31,8 @@ zzz-log-upload.mihoyo.com
 dispatchcnglobal.yuanshen.com
 uspider.yuanshen.com
 cnuspider.yuanshen.com
+apm-log-upload.mihoyo.com
+# 240830 来源：miHaYou launcher
 
 # miHaYou独立专用上报(国际)
 overseauspider.yuanshen.com
