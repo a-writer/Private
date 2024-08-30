@@ -257,3 +257,30 @@ mobile-api.adguard.org
 ||weather.battleofballs.com^
 ||apis.sdk.mobileztgame.com^
 # 第三方关于 qiuQiuDaZuoZhan 不影响游戏体验
+
+logs.prod.flamingo.apelabs.net
+events-drcn.op.dbankcloud.cn
+grs.dbankcloud.com
+grs.platform.dbankcloud.ru
+grs.dbankcloud.asia
+grs.dbankcloud.cn
+grs.dbankcloud.eu
+# 阻止grs后安装APK不提示签名被修改
+metrics1-drcn.dt.dbankcloud.cn
+metrics.dt.dbankcloud.cn
+logservice.hicloud.com
+logservice.dbankcloud.cn
+logservice1.dbankcloud.cn
+connectivitycheck.cbg-app.huawei.com.cn
+# 阻止后直接可以安装而不是勾选安全中心后才能安装
+dnkeeper.platform.dbankcloud.cn
+dnkeeper.hicloud.com
+dnkeeper.dbankcloud.com
+dnkeeper.platform.hwcloudtest.cn
+# 第三方关于huaWei (hongMeng OS)
+
+reshome.oicp.net
+# 第三方关于 极光WIFI app更新 已经没有服务了
+
+api2.openinstall.io
+# 第三方关于统计和裂变
