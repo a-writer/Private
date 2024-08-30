@@ -295,3 +295,5 @@ ldc.lenovo.com.cn
 dsp.lenovo.com.cn
 # 第三方关于lianXiang 这部分不影响正常的电脑本身使用 是否影响其它渠道正在测试
 
+mnqlog.ldmnq.com
+# 第三方关于leiDianMoNiQi
