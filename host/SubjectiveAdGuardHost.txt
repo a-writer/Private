@@ -244,7 +244,7 @@ apm.clientaccess.10086.cn
 # 第三方关于 lianTong
 
 reportappgo.189.cn
-# appgoad.189.cn 虽然确实屏蔽广告，但是会导致安卓APP中[查询办理]失效
+# appgoad.189.cn 虽然确实屏蔽广告，但是会导致安卓APP中[查询办理]标签页失效
 # 第三方关于 dianXin
 
 shouji.sogou.com
@@ -284,3 +284,14 @@ reshome.oicp.net
 
 api2.openinstall.io
 # 第三方关于统计和裂变
+
+bzib.nelreports.net
+self.events.data.microsoft.com
+# 第三方疑似window 11
+
+osfsr.lenovomm.com
+smartengine.lenovo.com.cn
+ldc.lenovo.com.cn
+dsp.lenovo.com.cn
+# 第三方关于lianXiang 这部分不影响正常的电脑本身使用 是否影响其它渠道正在测试
+
