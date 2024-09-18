@@ -149,6 +149,7 @@ anti-sdk-report.m.jd.com
 
 log.ys7.com
 logcn.ys7.com
+devlog.ys7.com
 # 第三方关于 yingShi
 
 
