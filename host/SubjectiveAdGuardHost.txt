@@ -49,6 +49,8 @@ trace.*.qq.com
 # 原始：trace.video.qq.com
 ||dsp.fcbox.com^
 sb.adtidy.org
+stdl.qq.com
+juhereport.gzwku.com
 # 未明确用途
 
 stats.chinaz.com
@@ -76,6 +78,7 @@ glitchtip.jgeek00.com
 adtracker.medproad.com
 hugelog.fcbox.com
 logan-rtl.dreport.meituan.net
+dreport.meituan.net
 *-report-api.zego.im
 # 原始：live3239798946-report-api.zego.im
 # 本段落根据关键字收录的未明确用途
@@ -101,6 +104,10 @@ applogsg.matrix.netease.com
 analytics.mpay.netease.com
 audiostatlog.cc.163.com
 netapm.music.163.com
+down.anticheatexpert.com
+tqos.anticheatexpert.com
+dns.update.netease.com
+applog.matrix.netease.com
 # 第三方关于 wangYi
 
 apmplus.volces.com
@@ -294,7 +301,10 @@ osfsr.lenovomm.com
 smartengine.lenovo.com.cn
 ldc.lenovo.com.cn
 dsp.lenovo.com.cn
-# 第三方关于lianXiang 这部分不影响正常的电脑本身使用 是否影响其它渠道正在测试
+# 第三方关于 lianXiang 这部分不影响正常的电脑本身使用 是否影响其它渠道正在测试
 
 mnqlog.ldmnq.com
-# 第三方关于leiDianMoNiQi
+# 第三方关于 leiDianMoNiQi
+
+sentry.tuyacn.com
+# 第三方关于 tuya
