@@ -17,6 +17,7 @@ devlog-upload.mihoyo.com
 public-data-api.mihoyo.com
 apm-log-upload-v6.mihoyo.com
 sentry-inc.ssr.mihoyo.com
+h5collector.mihoyo.com
 
 # miHaYou国际
 log-upload-os.hoyoverse.com
