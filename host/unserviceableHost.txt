@@ -1,0 +1,5 @@
+# 本文件用于收录一些厂商倒闭、停止提供服务的host
+
+# 来源：小看摄像头
+upgrade.zhjt.can-tv.cn
+api.zhjt.can-tv.cn
