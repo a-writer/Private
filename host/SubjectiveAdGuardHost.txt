@@ -51,6 +51,7 @@ trace.*.qq.com
 sb.adtidy.org
 stdl.qq.com
 juhereport.gzwku.com
+anti-sdk-report.m.jd.com.gslb.qianxun.com
 # 未明确用途
 
 stats.chinaz.com
