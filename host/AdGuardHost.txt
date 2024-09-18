@@ -33,6 +33,8 @@ uspider.yuanshen.com
 cnuspider.yuanshen.com
 apm-log-upload.mihoyo.com
 # 240830 来源：miHaYou launcher
+sdk-log-upload.mihoyo.com
+# 240919
 
 # miHaYou独立专用上报(国际)
 overseauspider.yuanshen.com
