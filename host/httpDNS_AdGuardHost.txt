@@ -12,6 +12,8 @@ httpdns.bcelive.com
 aedns.weixin.qq.com
 httpdns.kwd.inkuai.com
 # 240828
+doh.iqiyi.com
+# 240919
 # 以下是搜集
 dns.jd.com
 dns.weibo.cn
