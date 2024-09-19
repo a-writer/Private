@@ -1,5 +1,10 @@
-360.cn
-qhimg.com
-qhres2.com
-qhsetup.com
-ludashi.com
+||360.cn^
+||360tres.com^
+||360safe.com^
+||qhimg.com^
+||qhres2.com^
+||qhsetup.com^
+||qhupdate.com^
+||qhstatic.com^
+||so.com^
+||ludashi.com^
