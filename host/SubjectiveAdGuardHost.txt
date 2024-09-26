@@ -56,7 +56,6 @@ sentry.p.gc.onl
 # 未明确用途
 
 stats.chinaz.com
-stat.m.jd.com
 zhstatic.zhihu.com
 zhihu-web-analytics.zhihu.com
 static-xl9-ssl.xunlei.com
@@ -73,7 +72,6 @@ analytics.95516.com
 adv.ccb.com
 imageadv.ccb.com
 adim.pinduoduo.com
-adim.pinduoduo.com
 tracklog.58.com
 analyze.lemurbrowser.com
 glitchtip.jgeek00.com
@@ -83,6 +81,12 @@ logan-rtl.dreport.meituan.net
 dreport.meituan.net
 *-report-api.zego.im
 # 原始：live3239798946-report-api.zego.im
+report.im.qcloud.com
+report.igtm-meeting-tencent.com
+report.meeting.tencent.com
+cloud-log.yy.com
+pimlog.baidu.com
+dspsdk.pinduoduo.com
 # 本段落根据关键字收录的未明确用途
 
 rmonitor.qq.com
@@ -126,6 +130,7 @@ lf3-analytics.bytescm.com
 toblog.ctobsnssdk.com
 tobapplog.ctobsnssdk.com
 ug.snssdk.com
+tnc3-aliec2.zijieapi.com
 # 第三方关于 ziJie
 
 ||google-analytics.com^
@@ -154,6 +159,9 @@ fxgate.baidu.com
 
 mllog.jd.com
 anti-sdk-report.m.jd.com
+sgm-m.jd.com
+uranus.jd.com
+stat.m.jd.com
 # 第三方关于 jingDong
 
 log.ys7.com
@@ -293,6 +301,7 @@ reshome.oicp.net
 # 第三方关于 极光WIFI app更新 已经没有服务了
 
 api2.openinstall.io
+sdk.beizi.biz
 # 第三方关于统计和裂变
 
 bzib.nelreports.net
