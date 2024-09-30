@@ -250,6 +250,9 @@ ecad2.cebbank.com
 
 utoken.umeng.com
 # 来源：woShiPing-IOS
+sss.umeng.com
+zb-umpzid.umeng.com
+# 来源：未知APP后台-IOS
 # 第三方关于 umeng sdk
 
 # 第三方关于 bilibili
