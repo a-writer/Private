@@ -1,0 +1,22 @@
+# 用于较新的nas系统
+||fnnas.com^
+
+# 系统升级
+api.liveupdate.fnnas.com
+download.liveupdate.fnnas.com
+
+# 应用中心
+appcenter-pkg.fnnas.com
+appcenter-service.fnnas.com
+appcenter-static.fnnas.com
+
+# 媒体中心
+mediasvc.fnnas.com
+
+# 云端
+club.fnnas.com
+
+# 未知用途(疑似上报)
+event.fnnas.com
+
+# 未知用途
