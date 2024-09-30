@@ -1,0 +1,7 @@
+# 用于appnode面板屏蔽
+||appnode.com^
+
+# 下载
+dl.appnode.com
+# 仓库
+repo.appnode.com
