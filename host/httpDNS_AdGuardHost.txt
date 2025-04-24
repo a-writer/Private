@@ -33,3 +33,5 @@ kuaishou.httpdns.pro
 lofter.httpdns.c.163.com
 music.httpdns.c.163.com
 httpdnsvip.meituan.com
+httpdns.danuoyi.tbcache.com
+httpdns.alipay.com
